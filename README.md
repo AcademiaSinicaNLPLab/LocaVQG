@@ -62,8 +62,9 @@ To train the FDT5 model, go to the T5 folder in the Models directory
 cd Models/T5
 ```
 
-Enter this line of code to train the T5 model:
+Enter this line of code to train the FDT5 model, we would need to have T5 Large as the teacher for the distillation process first, therefore we are going to train T5 Large model first:
 ```
+sh train_t5large.sh
 sh train_fdt5.sh
 ```
 
