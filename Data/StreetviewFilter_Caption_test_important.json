@@ -1,0 +1,1602 @@
+{
+    "008518": {
+        "Caption": [
+            "On your north, a bridge over a city street with tall buildings.",
+            "On your east, a view of a bridge with a city in the background.",
+            "On your south, the view of the city from the bridge.",
+            "On your west, a view of a bridge from a highway.",
+            "You are driving in 6 Ed Koch Queensboro Bridge Path, New York, NY 10022, USA"
+        ],
+        "Question": [
+            "The Queensboro Bridge is a cantilever bridge. Does anyone know what a cantilever bridge is and how it's different from other bridge types?",
+            "To the west, you can see the bridge from the highway perspective. Can you name any other famous bridges in the United States that you would like to visit?",
+            "The south view of the city from the bridge is always breathtaking. What's your favorite part of the New York City skyline, and why?",
+            "As we look east, you can see the stunning Manhattan skyline in the background. Can you identify any iconic buildings or landmarks in the distance?",
+            "On the north side of the bridge, you can see tall buildings around the city street. Can anyone guess how many floors the tallest building in this area has?"
+        ]
+    },
+    "002237": {
+        "Caption": [
+            "On your north, a view of a city street with people and buildings.",
+            "On your east, a view of a city street with cars and buildings.",
+            "On your south, a view of the front of a building from the street.",
+            "On your west, a city street with a truck and cars on it.",
+            "You are driving in 345 Grant St, Pittsburgh, PA 15219, USA"
+        ],
+        "Question": [
+            "What do you think about the vibrant street life here in downtown Pittsburgh? Do you enjoy the energy of busy city streets or do you prefer quieter areas?",
+            "Can you spot any local businesses or restaurants along the streets that you would be interested in visiting later?",
+            "Have you noticed the architectural styles of the buildings on Grant St? Can you identify any specific styles?",
+            "Do you see any public art or murals nearby? Pittsburgh is known for its thriving art scene, and you can often spot artwork throughout the city.",
+            "Have you noticed the mix of modern and historic buildings in this area? What are your thoughts on how the city has managed to blend the old and new?"
+        ]
+    },
+    "007951": {
+        "Caption": [
+            "On your north, a view of the building from the street.",
+            "On your east, a busy city street with cars and buses and tall buildings.",
+            "On your south, a bus is parked in front of a brick building.",
+            "On your west, a city street with a white car and tall buildings.",
+            "You are driving in 220 E 38th St, New York, NY 10016, USA"
+        ],
+        "Question": [
+            "Did you know that the building on our north is an example of New York City's iconic architecture? Can anyone guess which architectural style it represents?",
+            "As we drive through this bustling area, can anyone share an interesting fact or personal experience they've had in New York City?",
+            "As we look east down this busy city street, can you spot any famous landmarks or buildings in the distance? ",
+            "The city street to our west is home to a variety of businesses. Can anyone identify a locally-owned business that they'd like to learn more about or visit during our tour?",
+            "Lastly, this area of New York City is rich with history and culture. Can anyone share a historical event or cultural contribution that took place in or near the neighborhood we're currently driving through?"
+        ]
+    },
+    "004331": {
+        "Caption": [
+            "On your north, a building with a flag and trees in front of it.",
+            "On your east, an empty street with palm trees and buildings on the side of it.",
+            "On your south, a red brick building on the corner of a street.",
+            "On your west, a view of a city street with a car driving down it.",
+            "You are driving in 222 S Rosalind Ave, Orlando, FL 32801, USA"
+        ],
+        "Question": [
+            "As we continue our drive, try to observe the different types of trees and plants in the area. Can anyone name a few of the native species that you might find in Orlando?",
+            "Are you familiar with any local events or attractions that might take place around this area of 222 S Rosalind Ave, Orlando, FL 32801?",
+            "Do you know what the speed limit is for city streets in Orlando, like the one we see on our west?",
+            "Can anyone identify the type of car driving down the street on our west? What do you think is the most common car brand in Orlando?",
+            "Can you spot any local businesses or restaurants in the area that you might be interested in visiting later?"
+        ]
+    },
+    "003080": {
+        "Caption": [
+            "On your north, the intersection of a busy city street with palm trees and buildings.",
+            "On your east, an empty street in the middle of a city with tall buildings.",
+            "On your south, an intersection with a traffic light and a highway overpass.",
+            "On your west, a view of a highway with cars driving down it.",
+            "You are driving in 172 N Garland Ave, Orlando, FL 32801, USA"
+        ],
+        "Question": [
+            "Who can guess how many people live in Orlando? Here's a hint \u2013 it's one of the largest cities in Florida!",
+            "As we pass under the highway overpass, can you spot any unique or interesting graffiti or artwork? It's common to find murals and street art in urban areas like this.",
+            "Have you been to any other cities in Florida? How does Orlando compare to them in terms of atmosphere and cityscape?",
+            "Can you identify any of the businesses or restaurants in the area? Are there any places you'd like to visit during your free time in the city?",
+            "Have you heard of the SunRail? It's a commuter rail system that runs through Orlando and its surrounding areas, connecting several major destinations. Have any of you had a chance to ride the SunRail yet?"
+        ]
+    },
+    "000262": {
+        "Caption": [
+            "On your north, a motorcycle parked in front of a building at night.",
+            "On your east, a busy city street with cars driving down it.",
+            "On your south, people walking down the street in front of a building.",
+            "On your west, a city street with a car and a person crossing the street.",
+            "You are driving in 600 Grant St Suite 3550, Pittsburgh, PA 15219, USA"
+        ],
+        "Question": [
+            "Speaking of architecture, Pittsburgh has a diverse mix of architectural styles. Can you identify any other prominent styles as we drive through the city?",
+            "Are you interested in motorcycle culture? The motorcycle parked to the north might be a part of one of the local biker clubs. Have you ever been a part of a motorcycle club or attended a motorcycle event?",
+            "Pittsburgh has a strong arts scene, with many galleries and theaters throughout the city. Are you interested in attending any performances or exhibitions while you're here?",
+            "Are you familiar with the history of Pittsburgh's steel industry? This city was once the heart of the American steel industry, and you can still see some of the old steel mills as we drive through the area.",
+            "As we continue driving, have you noticed any examples of street art or murals? Pittsburgh is home to numerous talented artists who showcase their work throughout the city."
+        ]
+    },
+    "009775": {
+        "Caption": [
+            "On your north, a view of a city street with a building and a crosswalk.",
+            "On your east, a city street with cars and a tall building.",
+            "On your south, a city intersection with a water tower and a traffic light.",
+            "On your west, a busy city street with cars and a green traffic light.",
+            "You are driving in 121 Morton St, New York, NY 10014, USA"
+        ],
+        "Question": [
+            "Notice the busy city street to our west with a green traffic light. New York City operates over 12,000 traffic signals throughout the city. Can you imagine the amount of coordination it takes to keep traffic flowing smoothly?",
+            "As we drive along Morton Street, you might notice the variety of architectural styles in the area, ranging from Federal-style townhouses to modern apartment buildings. What is your favorite style of architecture and why?",
+            "The West Village is known for its artistic and bohemian atmosphere. Can you spot any street art or murals on the buildings around us?",
+            "As we approach the crosswalk, can you observe the pedestrians crossing the street? New York City is known as a walking city, with over 8.3 million people living and working here. What are your favorite cities to explore on foot?",
+            "Lastly, New York City is known for its diverse population, with people from all over the world calling it home. As we continue our tour, try to listen to the different languages spoken by the people around us. How many languages can you identify?"
+        ]
+    },
+    "003434": {
+        "Caption": [
+            "On your north, an office building with palm trees in front of it.",
+            "On your east, a busy city street with cars and traffic cones.",
+            "On your south, the front of a building with a palm tree and a street light.",
+            "On your west, a city street with cars and palm trees.",
+            "You are driving in 602 N Orange Ave, Orlando, FL 32801, USA"
+        ],
+        "Question": [
+            "Orlando is known for its theme parks and attractions, but can you think of any other interesting landmarks or points of interest in the area that you would like to explore?",
+            "Can you notice how the palm trees in front of the office building on our north enhance the overall aesthetic of the area? What are your thoughts on incorporating greenery in urban environments?",
+            "Lastly, we'd love to hear about your travel experiences. Have you visited any other cities in Florida or the United States that you found particularly enjoyable? How do you think Orlando compares to those destinations?",
+            "As we continue our drive, we'll be passing by some local shops and restaurants. Are there any particular types of cuisine or shopping experiences you are interested in exploring during your time here in Orlando?",
+            "Florida is often referred to as the Sunshine State. How do you think this sunny weather affects the overall atmosphere and culture of cities like Orlando?"
+        ]
+    },
+    "005543": {
+        "Caption": [
+            "On your north, a truck parked in front of a building on a city street.",
+            "On your east, a truck is parked in front of a building on a city street.",
+            "On your south, a building on the corner of a city street with cars.",
+            "On your west, a busy city street with cars and buildings.",
+            "You are driving in 231 Broadway, New York, NY 10007, USA"
+        ],
+        "Question": [
+            "Are you familiar with any movies or TV shows that were filmed in this area? There are quite a few!",
+            "Can you spot any unique architectural features on the building on the corner of the city street to our south?",
+            "Can you identify the types of vehicles on this busy city street? Which one do you think is the most common in New York City?",
+            "Considering the traffic and buildings around us, how do you think urban planning has evolved in New York City over the years?",
+            "Can you guess what year the building on the south side of the street was built? I'll give you a hint: it's from the early 20th century."
+        ]
+    },
+    "002294": {
+        "Caption": [
+            "On your north, a building with a coca cola sign on the side of a city street.",
+            "On your east, a street in the city with cars parked on the side of it.",
+            "On your south, a bank clothes store on the side of a building.",
+            "On your west, an empty street in a city with tall buildings.",
+            "You are driving in 525 Smithfield St, Pittsburgh, PA 15222, USA"
+        ],
+        "Question": [
+            "Have any of you ever visited Pittsburgh before? If so, what were your favorite attractions or experiences?",
+            "The bank clothes store to our south is an interesting combination of services. Can you think of any other unusual business combinations you've encountered in your travels?",
+            "Did you know that Pittsburgh is known as the \"Steel City\" due to its rich history in the steel industry? Can you spot any features in the architecture around us that might give a nod to this industrial heritage?",
+            "As we drive through this bustling city, have you noticed any unique local businesses or stores that you'd like to explore later during your free time?",
+            "The Coca-Cola sign you see on the building to our north is an example of classic American advertising. What are some other iconic American brands that you've encountered during your travels?"
+        ]
+    },
+    "000625": {
+        "Caption": [
+            "On your north, a man walks past a bagel shop on the corner of a city street.",
+            "On your east, a city street with tall buildings and a parking garage.",
+            "On your south, a car parked in a parking garage at night.",
+            "On your west, an empty street in the city with tall buildings.",
+            "You are driving in 429 Fourth Ave, Pittsburgh, PA 15219, USA"
+        ],
+        "Question": [
+            "Have any of you tried a traditional Pittsburgh-style bagel before? If not, would you be interested in stopping by the bagel shop over there and trying one?",
+            "Sometimes, the streets of Pittsburgh can be quiet and empty, like the one we see to our west. What are some of your favorite quiet spots or hidden gems in the cities you've visited?",
+            "Speaking of tall buildings, does anyone know the tallest building in Pittsburgh and how it compares to other tall buildings in the United States?",
+            "The architecture of these tall buildings on the east is quite fascinating, don't you think? Can anyone guess what architectural style they belong to?",
+            "As we drive through this area, can you spot any interesting street art or murals on the sides of buildings? Pittsburgh has a vibrant arts scene, and we might just find a hidden masterpiece."
+        ]
+    },
+    "004082": {
+        "Caption": [
+            "On your north, an office building with a fence in front of it.",
+            "On your east, a city street with a green traffic light and buildings.",
+            "On your south, a view of an empty city street with tall buildings.",
+            "On your west, a view of a city street with cars driving down it.",
+            "You are driving in 99 W Anderson St, Orlando, FL 32801, USA"
+        ],
+        "Question": [
+            "Do you have any idea what kind of businesses might be located in those buildings to the east? There's actually a wide variety of enterprises, from tech startups to restaurants.",
+            "Can you guess how many floors the office building to our north has? It's actually quite a popular location for local businesses.",
+            "Why do you think the city street to our south is empty at the moment? It could be due to the time of day or perhaps there's an event taking place nearby.",
+            "As we look to the west, can you tell which direction the cars are driving? In the United States, vehicles drive on the right side of the road, which might be different from what you're used to in your home country.",
+            "Have you ever noticed the unique architectural style of the buildings around here? Many of them have a combination of modern and historic features that reflect Orlando's development over the years."
+        ]
+    },
+    "000007": {
+        "Caption": [
+            "On your north, a truck parked in front of a building.",
+            "On your east, a view of a city street with cars driving down it.",
+            "On your south, a park in the middle of a city with tall buildings.",
+            "On your west, a bridge over a street in a city with tall buildings.",
+            "You are driving in Blvd of Allies + Post Gazette Bldg, Pittsburgh, PA 15222, USA"
+        ],
+        "Question": [
+            "Did you know that the Boulevard of the Allies is named in honor of the countries that were allied during World War I? Can anyone guess when it was dedicated?",
+            "Can you name some of the famous bridges in Pittsburgh? We have quite a few, as we are known as the \"City of Bridges\" due to the many rivers and hills in our region.",
+            "As you can see, Pittsburgh is a city with a mix of old and new buildings. Can anyone tell me about some of the different architectural styles you might find in our city?",
+            "As you look to the east, you'll notice the busy city streets. What do you think are some of the challenges that a city like Pittsburgh faces when it comes to traffic and transportation?",
+            "On our south, you can see a beautiful urban park surrounded by tall buildings. How do you think parks like this contribute to the overall quality of life in a bustling city like Pittsburgh?"
+        ]
+    },
+    "009889": {
+        "Caption": [
+            "On your north, a van is parked in front of a large building.",
+            "On your east, a busy city street with cars and tall buildings.",
+            "On your south, a city street with trees and cars on it.",
+            "On your west, a city street with cars and trees and a bridge.",
+            "You are driving in 51 10th Ave, New York, NY 10014, USA"
+        ],
+        "Question": [
+            "With so many diverse dining options in Chelsea, have any of you tried a local restaurant or cafe that you would recommend to the rest of the group?",
+            "To the west, you can see a bridge in the distance. Can anyone name any famous bridges in New York City? This one is the High Line, an elevated park built on a historic freight rail line.",
+            "As you can see to the east, the streets are bustling with activity. Can anyone guess what some of these tall buildings might be used for? Offices, apartments, or even hotels?",
+            "That large building to our north with the van parked in front of it could be a residential or commercial building. What kind of businesses do you think might be located in a building like this in the Chelsea neighborhood?",
+            "Did you know that we are currently in the vibrant neighborhood of Chelsea, which is known for its art galleries, nightlife, and diverse dining options? Have any of you been to this part of New York City before?"
+        ]
+    },
+    "000184": {
+        "Caption": [
+            "On your north, a man walks past a restaurant on a city street.",
+            "On your east, a busy city street with cars and people on the sidewalk.",
+            "On your south, people walk past the entrance of the winter centre building in the city of toronto.",
+            "On your west, a busy street in the city with cars and pedestrians.",
+            "You are driving in 332 Forbes Ave, Pittsburgh, PA 15222, USA"
+        ],
+        "Question": [
+            "What do you think of the local street art scene? As we drive along these busy streets, you may notice various murals and installations that showcase the city's creative spirit. Which one has caught your eye so far?",
+            "Did you know that Pittsburgh is known as the \"Steel City\" due to its rich history in the steel industry? Can you imagine how important this city was during the industrial revolution?",
+            "Are you familiar with the concept of \"walkability\"? Pittsburgh has a high walkability score, meaning it's easy to navigate and explore the city on foot. Have you found it easy to get around so far?",
+            "Are you aware that Pittsburgh has over 400 bridges, earning it the nickname \"The City of Bridges\"? Can you think of any other city with such a vast number of bridges?",
+            "Have you visited Toronto before? It's a vibrant and diverse city just a few hours away from Pittsburgh. If you haven't been there, would you consider adding it to your travel list?"
+        ]
+    },
+    "004055": {
+        "Caption": [
+            "On your north, a parking lot filled with cars and a truck driving down a street.",
+            "On your east, a busy street with cars and a gas station on the side of the road.",
+            "On your south, a parking lot in front of a building with cars.",
+            "On your west, a busy street with cars parked on the side of it.",
+            "You are driving in 24 E Colonial Dr, Orlando, FL 32801, USA"
+        ],
+        "Question": [
+            "Orlando has a diverse culinary scene. Looking at the various food establishments around us, can you spot any restaurants or cafes that you would like to try during your visit?",
+            "Orlando is known for its theme parks and attractions. Based on our current location, can any of you guess which popular theme park is closest to us?",
+            "As we pass by this gas station on our east, have any of you noticed the difference in gas prices compared to your home city or country? How do they compare?",
+            "Can you spot any public transportation options around us, such as buses or bike-sharing stations? What are your thoughts on the public transportation system in Orlando?",
+            "As we drive along this busy street, can you identify any local businesses or shops that catch your eye? What about them stands out to you?"
+        ]
+    },
+    "003458": {
+        "Caption": [
+            "On your north, a city street with cars on it and a cloudy sky.",
+            "On your east, a city street with palm trees and cars on it.",
+            "On your south, a view of a street with a car parked on the side of it.",
+            "On your west, a car driving down a street next to a building.",
+            "You are driving in N Orange Ave and Cheney Place, Orlando, FL 32801, USA"
+        ],
+        "Question": [
+            "Orlando is a culturally diverse city with a rich history. Can anyone share a fun fact about the city's past or its cultural influences?",
+            "As we drive along N Orange Ave, can you spot any unique or interesting architectural styles in the buildings around us?",
+            "While we're driving on this city street, let's talk about Orlando's transportation system. Are you familiar with the public transportation options available in the city, such as the SunRail and LYNX bus service?",
+            "As we pass by the car on our west, have you noticed the variety of car models on the road? Can anyone identify the most popular car brand in Florida?",
+            "On the south, you can see a car parked on the side of the street. Street parking is common in Orlando, but do you know about the parking regulations and restrictions in the city?"
+        ]
+    },
+    "004019": {
+        "Caption": [
+            "On your north, a tree and sidewalk in front of a building.",
+            "On your east, a city street with trees and a car driving down it.",
+            "On your south, a no parking sign on a sidewalk next to a tree.",
+            "On your west, a street with trees and a building on the side of it.",
+            "You are driving in 65 E Concord St, Orlando, FL 32801, USA"
+        ],
+        "Question": [
+            "For those who have visited other cities in Florida, how do you think Orlando compares in terms of its urban landscape and overall atmosphere?",
+            "Speaking of trees, did you know that Orlando has a Tree City USA designation? What are your thoughts on the city's efforts to preserve and maintain its urban forests?",
+            "Can anyone share their favorite experiences or memories of visiting a city with a vibrant downtown area like Orlando?",
+            "As we pass by this building on our north, can you spot any architectural features that are unique or interesting? Let's discuss some of the architectural styles you've observed in Orlando so far.",
+            "As we continue our drive through Orlando, what are some other sights or attractions that you are looking forward to exploring during your visit? Let's share some recommendations and insider tips with each other!"
+        ]
+    },
+    "004106": {
+        "Caption": [
+            "On your north, the building where the apartment is located.",
+            "On your east, a city street with palm trees and tall buildings.",
+            "On your south, a view of the city of austin from a parking lot.",
+            "On your west, a busy highway with cars and trucks driving down it.",
+            "You are driving in E Anderson St and S Magnolia Ave, Orlando, FL 32801, USA"
+        ],
+        "Question": [
+            "Have you noticed the palm trees lining the streets on our east? These are native to Florida and add to the tropical atmosphere of the city. Do you know any other types of palm trees that can be found in Florida?",
+            "Are you aware of the various attractions and landmarks that make Orlando a popular tourist destination? Which ones are you looking forward to visiting during your stay?",
+            "Have you visited any other cities in Florida apart from Orlando? How do you think they compare in terms of atmosphere and attractions?",
+            "Can you spot the variety of architectural styles in the tall buildings around us? What do you think has inspired these designs?",
+            "As we drive near the busy highway on our west, do you know which major interstate highways connect Orlando with other parts of Florida and the United States?"
+        ]
+    },
+    "002438": {
+        "Caption": [
+            "On your north, the side of a brick building with windows and a road.",
+            "On your east, a truck is driving down a city street under a bridge.",
+            "On your south, a large tree in front of a building.",
+            "On your west, a bridge over a road between two buildings.",
+            "You are driving in Liberty Ave + 12th St, Pittsburgh, PA 15222, USA"
+        ],
+        "Question": [
+            "As we drive through the city, you may notice the blend of old and new architecture. Can anyone describe a building they've seen during our tour that caught their eye? What did you find interesting about it?",
+            "The large tree to our south is a testament to Pittsburgh's commitment to urban greening. Does anyone know any initiatives taken by the city to increase green spaces and reduce pollution?",
+            "If you look to our east, you'll see a truck driving under a bridge. Pittsburgh's infrastructure supports a variety of transportation methods. What are some other ways people commute in this city?",
+            "Did you know that Pittsburgh is known as the \"City of Bridges\"? Can anyone guess how many bridges are there in the city? (Answer: 446)",
+            "As we cross the bridge heading west, can you tell which river we're crossing? (Answer: Monongahela, Allegheny, or Ohio River, depending on the specific bridge)"
+        ]
+    },
+    "003839": {
+        "Caption": [
+            "On your north, the sun shining through a tree in front of a building.",
+            "On your east, a view of a city street with cars and buildings.",
+            "On your south, a building with a car parked in front of it.",
+            "On your west, a city street with trees and a car on it.",
+            "You are driving in 135 E Central Blvd, Orlando, FL 32801, USA"
+        ],
+        "Question": [
+            "Does anyone know the history of this area of Orlando, like how it has evolved over the years or any major events that have taken place in the vicinity?",
+            "Can anyone guess the approximate age of the tree to our north, based on its size and appearance?",
+            "Considering the time of day, can anyone predict how long the shadows will be from the trees and buildings to our west?",
+            "What do you think the primary use of the building to our north is? Residential, commercial, or something else?",
+            "Are there any specific types of trees in this area that you recognize or can identify? What makes them unique or special to the region?"
+        ]
+    },
+    "002330": {
+        "Caption": [
+            "On your north, a view of the building from the highway.",
+            "On your east, a city street with cars driving down it and tall buildings.",
+            "On your south, a view of a street with cars parked at an intersection.",
+            "On your west, a busy city street with cars and a church.",
+            "You are driving in 984 Centre Ave, Pittsburgh, PA 15219, USA"
+        ],
+        "Question": [
+            "Did you know that Pittsburgh is known as the \"City of Bridges\"? In fact, there are 446 bridges in the city. Can you spot any in the distance as we drive along Centre Ave?",
+            "Centre Ave is a major thoroughfare in the city, connecting several neighborhoods. Can you guess which neighborhood we are currently in, based on the surroundings?",
+            "The street on the south side seems to have a mix of commercial and residential buildings. Can you identify any local businesses or iconic stores as we pass by?",
+            "The church you see on the west side is a classic example of Pittsburgh's rich architectural history. Can you guess which architectural style it represents?",
+            "Pittsburgh is home to several universities and research institutions. Do you know if any of these institutions are located near Centre Ave?"
+        ]
+    },
+    "005750": {
+        "Caption": [
+            "On your north, a van is parked on the street in front of a building.",
+            "On your east, a busy city street with cars and pedestrians and tall buildings.",
+            "On your south, a police van parked in front of a building on a city street.",
+            "On your west, a busy city street filled with taxis and cars.",
+            "You are driving in 24 W 14th St, New York, NY 10011, USA"
+        ],
+        "Question": [
+            "As we drive by these various buildings, can you spot any unique or interesting features that stand out to you?",
+            "What do you think about the public transportation system here in New York? Have you had a chance to ride the subway or take a taxi?",
+            "How do you feel about the bustling atmosphere of this busy city street? Is it energizing or overwhelming for you?",
+            "Have you noticed the diverse architectural styles of the buildings around us? Can you identify any specific styles?",
+            "Can you spot any famous landmarks or buildings in the distance as we drive through New York City?"
+        ]
+    },
+    "000028": {
+        "Caption": [
+            "On your north, a parking lot full of cars in front of a building.",
+            "On your east, a city street with a car driving down it and tall buildings.",
+            "On your south, a man walking down a street in front of a tall glass building.",
+            "On your west, an empty street with buildings on both sides and a car driving down it.",
+            "You are driving in Blvd of Allies + Market St, Pittsburgh, PA 15222, USA"
+        ],
+        "Question": [
+            "As we drive down this city street, can you spot any local businesses or restaurants that you might want to explore later?",
+            "Do you notice any unique features on the buildings lining the empty street to our west? Keep an eye out for interesting details, such as sculptures or decorative elements.",
+            "Have you noticed the architectural design of the tall buildings on our east? They showcase a mix of modern and historic styles. Which style do you prefer?",
+            "That man walking down the street to our south \u2013 do you think he's a local or a fellow tourist? What clues suggest this to you?",
+            "As we turn onto the empty street to our west, can you imagine what this area must have looked like a hundred years ago? How do you think it has changed over time?"
+        ]
+    },
+    "010003": {
+        "Caption": [
+            "On your north, a city street with cars and pedestrians and a brick building.",
+            "On your east, a budget truck driving down a city street.",
+            "On your south, a city street with red brick buildings and trees.",
+            "On your west, a city street with tall brick buildings and a motorcycle parked in a parking lot.",
+            "You are driving in 28 Charles St, New York, NY 10014, USA"
+        ],
+        "Question": [
+            "Did you know that Charles Street is located in the heart of the charming and historic West Village neighborhood of Manhattan? What do you think about the architecture of the buildings here?",
+            "Notice the brick building to the north. It's a classic example of New York's pre-war architecture. Have you ever seen this style of building before? ",
+            "Have you noticed the variety of trees planted along the streets here in the West Village? What are your thoughts on the importance of maintaining green spaces in urban environments?",
+            "The streets here can get quite busy with cars and pedestrians. How do you feel about the hustle and bustle of New York City compared to your hometown?",
+            "To our west, there's a motorcycle parked in a parking lot. Do any of you ride motorcycles? If so, do you think it would be a convenient mode of transportation in a city like New York?"
+        ]
+    },
+    "010222": {
+        "Caption": [
+            "On your north, a yellow taxi cab driving down a city street.",
+            "On your east, the view of a city street with cars and tall buildings.",
+            "On your south, a busy city street with cars parked on the street and buildings.",
+            "On your west, a city street with cars driving down it and tall buildings.",
+            "You are driving in 15 6th Ave, New York, NY 10013, USA"
+        ],
+        "Question": [
+            "As we drive through the streets of New York City, can anyone share a fun fact or anecdote about their experiences in the city?",
+            "New York City is known for its hustle and bustle. What are your first impressions of the busy city streets we're passing through?",
+            "Parking can be quite a challenge in New York City. How do you think the parking situation here compares to other cities you've visited?",
+            "Speaking of taxis, does anyone know the history behind the yellow color of New York City taxi cabs?",
+            "As we continue down 6th Avenue, can anyone identify any famous landmarks nearby that we might be able to spot?"
+        ]
+    },
+    "005453": {
+        "Caption": [
+            "On your north, a red van is parked in front of a building.",
+            "On your east, a street in a city with tall buildings.",
+            "On your south, a view of the front of a building on a city street.",
+            "On your west, a view of a street in a city with tall buildings.",
+            "You are driving in 368 Greenwich St, New York, NY 10013, USA"
+        ],
+        "Question": [
+            "How do you feel about the density of tall buildings in this area? Do you prefer this urban setting or do you enjoy more open spaces?",
+            "Do you know what type of architecture is most commonly found in New York City? Looking around, can you spot any examples of this architectural style?",
+            "Did you know that the Greenwich Street we are driving on is one of the oldest streets in New York City, dating back to the early 1700s? Have you ever visited any other historical streets in your travels?",
+            "Have you ever considered living in a city like New York? What do you think the biggest adjustments would be compared to your current lifestyle?",
+            "Have you ever driven or ridden in a red van like the one parked to the north? What are your favorite types of vehicles for road trips or city exploration?"
+        ]
+    },
+    "006029": {
+        "Caption": [
+            "On your north, a view of the city from a park.",
+            "On your east, a view of a city street with cars and tall buildings.",
+            "On your south, a city street with trees in front of a tall building.",
+            "On your west, a view of a city street with a car driving down it.",
+            "You are driving in 230 West St, New York, NY 10013, USA"
+        ],
+        "Question": [
+            "New York City is known for its diverse food scene. As we drive through the neighborhood, can you see any restaurants or cafes that catch your eye or that you would like to try during your stay?",
+            "On the west, you can see a car driving down the street. Can you think of any iconic movies or TV shows that were filmed on the streets of New York City, and which ones are your favorites?",
+            "To your north, you can see a park with a great view of the city. Can anyone guess which park this might be, and what makes it a popular spot for both locals and tourists?",
+            "Look at the tall buildings to the east; do you know any famous skyscrapers in New York City, and have you had the chance to visit any of them during your trip?",
+            "Did you know that we are currently in the Tribeca neighborhood of New York City, which is known for its cobblestone streets, historic warehouses, and upscale boutiques? Have any of you visited Tribeca before?"
+        ]
+    },
+    "008206": {
+        "Caption": [
+            "On your north, the entrance to a building on a city street.",
+            "On your east, a city street with a bus and tall buildings.",
+            "On your south, a man sitting on the steps of a building on a city street.",
+            "On your west, a busy city street with cars driving down it.",
+            "You are driving in 27 E 39th St, New York, NY 10016, USA"
+        ],
+        "Question": [
+            "Do you notice the architectural styles of the buildings around us? They range from Art Deco to modern glass structures. Which one is your favorite?",
+            "Can you spot the Empire State Building from here? It's just a few blocks away and one of the most iconic skyscrapers in the world.",
+            "As we drive down this busy city street to our west, can you imagine what it must be like to live in such a densely populated area? What do you think are some of the advantages and disadvantages of living in a city like New York?",
+            "Considering the traffic we're experiencing, have you ever wondered about the challenges of urban planning and transportation in a city like New York? What solutions can you think of to improve traffic flow and reduce congestion?",
+            "Can you spot any famous landmarks or buildings in the distance? New York City is full of famous sites, and you never know what you might see just around the corner."
+        ]
+    },
+    "009655": {
+        "Caption": [
+            "On your north, a view of a building from the street.",
+            "On your east, a city street filled with cars and tall buildings.",
+            "On your south, the view of the building from the street.",
+            "On your west, a city street filled with cars and tall buildings.",
+            "You are driving in 671 W 162nd St, New York, NY 10032, USA"
+        ],
+        "Question": [
+            "As we drive through this bustling city street, can you spot any unique or interesting storefronts that catch your eye? What draws you to them?",
+            "For those of you who are avid cyclists, have you noticed any bike lanes or bike-friendly infrastructure in this area? What are your thoughts on biking as a mode of transportation in a city like New York?",
+            "Did you know that we are currently in the Washington Heights neighborhood of New York City? What do you think of this vibrant area so far?",
+            "Washington Heights is known for its cultural diversity. As we drive along, try to spot the various ethnic restaurants and businesses that represent this multicultural neighborhood. Which ones stand out to you the most?",
+            "Are any of you familiar with the Broadway musical \"In the Heights\"? It's set in this very neighborhood! Have you seen the show or the movie adaptation?"
+        ]
+    },
+    "009097": {
+        "Caption": [
+            "On your north, a wall with graffiti on it and a yellow taxi.",
+            "On your east, traffic on the highway with a bridge in the background.",
+            "On your south, a car driving down a highway next to a body of water.",
+            "On your west, a highway with cars driving down it and trees on the side of it.",
+            "You are driving in 541 E 52nd St, New York, NY 10022, USA"
+        ],
+        "Question": [
+            "We're not far from the United Nations Headquarters, which is located along the East River. Have any of you ever visited the UN or participated in any related events?",
+            "Urban greenery and trees play a significant role in improving air quality and providing a more pleasant environment. Can you identify any tree species along the highway to our west?",
+            "Are you familiar with any famous landmarks or attractions near our current location at 541 E 52nd St? ",
+            "The neighborhood we're in is called Midtown East. Can you think of any other neighborhoods in Manhattan you'd like to explore during your visit?",
+            "Graffiti has a long history in New York City, dating back to the 1970s. Do you have any favorite graffiti artists or styles that you've seen during your visit so far?"
+        ]
+    },
+    "006302": {
+        "Caption": [
+            "On your north, the view from the corner of a city street.",
+            "On your east, a city street with a food truck parked in front of a building.",
+            "On your south, a city street with a truck parked in front of a building.",
+            "On your west, a view of a city street with cars and a building.",
+            "You are driving in 37 W 20th St #1007, New York, NY 10011, USA"
+        ],
+        "Question": [
+            "Are you familiar with any movies or TV shows that have been filmed on the streets of New York City? This area has been a popular filming location for many productions.",
+            "What is your favorite type of cuisine? New York City is known for its diverse food culture, and you can find almost any type of cuisine here.",
+            "Can you guess the architectural style of the building on the corner of the street to our north? There are many types of architecture found in New York City!",
+            "If you had to choose between living in a high-rise apartment or a townhouse in New York City, which would you prefer and why?",
+            "Have you tried any local food from food trucks in New York City? If so, what's your favorite dish? The food truck on our east seems to be quite popular!"
+        ]
+    },
+    "004517": {
+        "Caption": [
+            "On your north, the front of a brick building with tall buildings.",
+            "On your east, a city street with cars and a delivery truck on it.",
+            "On your south, a view of an apartment building from the street.",
+            "On your west, a busy city street with cars and pedestrians and tall buildings.",
+            "You are driving in 175 Lexington Ave, New York, NY 10016, USA"
+        ],
+        "Question": [
+            "Did you know that we are currently on Lexington Avenue, which runs north-south through Manhattan and offers a unique blend of historic and modern architecture?",
+            "Can you imagine what this area might have looked like 50 or even 100 years ago? How do you think it has changed over time?",
+            "What do you think the history of this particular neighborhood might be? It has evolved quite a bit over the years.",
+            "Have any of you been to New York City before? If so, what differences do you notice in this area compared to other parts of the city?",
+            "Can you guess how many floors that tall brick building to the north has? It's quite impressive, isn't it?"
+        ]
+    },
+    "009688": {
+        "Caption": [
+            "On your north, the facade of a building on a city street.",
+            "On your east, the view down a city street with tall buildings and cars.",
+            "On your south, a view of the front of a tall building with a glass facade.",
+            "On your west, an empty street in a city with tall buildings.",
+            "You are driving in 447 Washington St, New York, NY 10013, USA"
+        ],
+        "Question": [
+            "Can anyone guess the architectural style of the building on our north with its unique facade? ",
+            "What do you think about the overall layout and design of the streets and buildings in this area? How does it compare to other cities or neighborhoods you've visited?",
+            "The tall building with the glass facade on our south is an example of modern architectural design. What do you think about the use of glass in contemporary buildings, and how does it impact the cityscape?",
+            "As we continue on this route, keep an eye out for unique shops, cafes, and restaurants. If you see something that catches your eye, let us know and we can discuss the local food and shopping scene.",
+            "As we drive through this area, have you noticed any landmarks or famous buildings nearby that you've seen before?"
+        ]
+    },
+    "006299": {
+        "Caption": [
+            "On your north, a white delivery truck parked in front of a building.",
+            "On your east, a van and a truck driving down a city street.",
+            "On your south, a ambulance parked on the side of a city street.",
+            "On your west, a van parked in front of a building on a city street.",
+            "You are driving in 40 W 20th St, New York, NY 10011, USA"
+        ],
+        "Question": [
+            "Can you guess how many art galleries are located within just a few blocks of our current location?",
+            "Do you see that white delivery truck parked to our north? Can you guess what type of business it might be delivering goods to in this area?",
+            "Did you know that we are currently in the heart of New York City's Chelsea neighborhood, which is known for its vibrant art galleries, upscale boutiques, and diverse dining options?",
+            "Speaking of deliveries, are you aware of the strict parking regulations in New York City and the challenges it poses for delivery drivers?",
+            "Have you ever wondered about the history of Chelsea? Would you like me to share some interesting facts about its development and transformation over the years?"
+        ]
+    },
+    "007711": {
+        "Caption": [
+            "On your north, the corner of a city street with scaffolding in front of a building.",
+            "On your east, a yellow taxi cab parked in front of a building with scaffolding.",
+            "On your south, a city street with stores on the side of a building.",
+            "On your west, a city street with a police car driving down it.",
+            "You are driving in 274 W 36th St., New York, NY 10018, USA"
+        ],
+        "Question": [
+            "Speaking of the police car driving down the street to our west, do you know what the most common type of emergency call is for the NYPD?",
+            "Have you ever been inside a New York City yellow taxi cab? Did you know that the fare starts at $2.50 and increases based on time and distance?",
+            "As we drive through the streets of Manhattan, have you ever wondered why the streets are mostly arranged in a grid pattern? It was actually designed this way to make navigation easier.",
+            "Are you familiar with the NYPD, or New York City Police Department? Did you know that it is the largest municipal police force in the United States, with around 36,000 officers?",
+            "Can you guess how many taxi cabs there are in New York City? It's actually around 13,000 yellow cabs that serve the city!"
+        ]
+    },
+    "003350": {
+        "Caption": [
+            "On your north, a city street with cars and buildings in the background.",
+            "On your east, an empty street in a city with tall buildings.",
+            "On your south, a street with palm trees in front of a white building.",
+            "On your west, a city street with cars driving down it and buildings on the side of the road.",
+            "You are driving in 122 E Livingston St, Orlando, FL 32801, USA"
+        ],
+        "Question": [
+            "Did you know that Orlando is nicknamed \"The City Beautiful\" and is known for its lush greenery and palm trees, like the ones we see to our south?",
+            "Have you noticed the mix of architectural styles in the buildings around us, reflecting the city's growth and development over the years?",
+            "Have any of you been to downtown Orlando before? What are some of your favorite spots or experiences in the area?",
+            "Considering the traffic on the north city street, do you have any thoughts or experiences regarding the traffic patterns in Orlando? Are they similar or different from your hometown?",
+            "To the east, we can see an empty street with tall buildings. Can anyone name a few of the industries that contribute to Orlando's economy, aside from tourism?"
+        ]
+    },
+    "008173": {
+        "Caption": [
+            "On your north, the building where the apartment is located.",
+            "On your east, a busy city street with cars and a bus.",
+            "On your south, a street view of a building with bags of garbage on the sidewalk.",
+            "On your west, a busy city street with cars and a truck.",
+            "You are driving in 150 E 39th St, New York, NY 10016, USA"
+        ],
+        "Question": [
+            "Can anyone spot any unique or interesting street signs or advertisements in our surroundings? New York is famous for its creative and eye-catching advertisements.",
+            "How do you think the traffic patterns in this area might change during different times of the day? Have you experienced rush hour in New York City before?",
+            "Can you identify any architectural styles or features on the buildings surrounding us? New York is known for its diverse architectural landscape.",
+            "Did you know that we are currently in the vibrant neighborhood of Midtown Manhattan, which is known for its iconic landmarks and attractions?",
+            "Finally, do any of you have a favorite location or landmark in New York City that you've visited so far? I'd love to hear about your experiences and recommendations!"
+        ]
+    },
+    "010306": {
+        "Caption": [
+            "On your north, a view of an apartment building from the street.",
+            "On your east, a city street with trees and cars parked on the side of it.",
+            "On your south, a man riding a bike down a street in front of a building.",
+            "On your west, a yellow taxi cab driving down a city street.",
+            "You are driving in 213 6th Ave, New York, NY 10014, USA"
+        ],
+        "Question": [
+            "How do you feel about the biking culture in New York City? Have you tried biking around the city or considered joining a guided bike tour?",
+            "Let's talk about public transportation. In addition to taxis, what other modes of transportation have you used or plan to use during your visit to New York City?",
+            "Did you know that the architecture of the apartment building on our north is influenced by the historic brownstone style, which is iconic to New York City? Have you seen any other brownstone buildings during your visit?",
+            "As you can see, there's a man riding a bike to our south. Can you spot any unique features on his bike or gear that help ensure his safety while navigating the busy city streets?",
+            "Notice the trees lining the street to our east. Can you guess which tree species are most commonly found in New York City? I'll give you a hint: one of them is the London Plane tree."
+        ]
+    },
+    "008956": {
+        "Caption": [
+            "On your north, a street in the city with cars and buildings.",
+            "On your east, a fire escape on the side of a building.",
+            "On your south, a city street with tall buildings on the side of it.",
+            "On your west, the apartment building is shown in this image from google street view.",
+            "You are driving in 74 E 9th St, New York, NY 10003, USA"
+        ],
+        "Question": [
+            "Greenwich Village has a rich history of activism and social change. Can you think of any significant events or movements that have taken place in this area?",
+            "As you can see, there are fire escapes on the sides of many buildings here. Can you guess why fire escapes are so iconic in New York City and how they have been featured in movies and TV shows?",
+            "Finally, as we continue our tour, are there any specific landmarks or locations in or around Greenwich Village that you would like to learn more about or visit?",
+            "This area is also home to several universities, including New York University. Are any of you alumni or current students at NYU or any other nearby institutions?",
+            "Did you know that we are currently in the Greenwich Village neighborhood of Manhattan, which is known for its historic, artistic, and bohemian culture? What do you think about the area so far?"
+        ]
+    },
+    "008902": {
+        "Caption": [
+            "On your north, a view of the cathedral from the street with people walking on the sidewalk.",
+            "On your east, a view of the corner of a city street with pedestrians and buildings.",
+            "On your south, a view of a city street with pedestrians and a large building.",
+            "On your west, a large building on the corner of a city street.",
+            "You are driving in 799 Broadway, New York, NY 10003, USA"
+        ],
+        "Question": [
+            "Notice the beautiful architecture of the cathedral to our north. Does anyone know which architectural style is predominant in this cathedral?",
+            "On our west, there's a large building on the corner of a city street. Can anyone guess what type of establishment that building might house?",
+            "Can you spot the iconic Washington Square Park nearby? It is one of the most famous parks in New York City. What other famous parks can you think of in the city?",
+            "As we explore this neighborhood, can anyone share a fun fact or personal story about Greenwich Village or New York City in general?",
+            "The large building to our south is home to several businesses and offices. In what ways do you think the mix of residential, commercial, and educational buildings contribute to the unique character of Greenwich Village?"
+        ]
+    },
+    "008686": {
+        "Caption": [
+            "On your north, a busy city street with cars and taxi cabs.",
+            "On your east, a busy street in the city with people and cars.",
+            "On your south, a busy city street with cars and taxis and tall buildings.",
+            "On your west, a busy city street with cars and pedestrians and buildings.",
+            "You are driving in 23 St, New York, NY 10010, USA"
+        ],
+        "Question": [
+            "Are you aware of the public transportation options available in the city? Apart from the subway, New York City also has an extensive bus network, ferries, and even a tramway to Roosevelt Island. Have you considered exploring the city using any of these modes of transportation?",
+            "Do you notice the diversity of people walking on the sidewalks? New York City is a melting pot of cultures, with over 800 languages spoken throughout the city. Can you recognize any accents or languages being spoken?",
+            "Can you spot any street vendors or food trucks nearby? New York City is famous for its street food, offering a variety of cuisines from around the world. What type of street food would you like to try?",
+            "Do you see any subway entrances? The New York City subway system is one of the largest and busiest in the world, with 472 stations and over 5 million riders per day. Have you had a chance to ride the subway yet?",
+            "Do you notice the wide variety of architectural styles in the buildings around us? From Art Deco and Beaux-Arts to modern glass towers, the city's architecture reflects its diverse history and culture. Which style do you find most appealing?"
+        ]
+    },
+    "008464": {
+        "Caption": [
+            "On your north, a view of the building from the street.",
+            "On your east, a busy city street with cars and tall buildings.",
+            "On your south, a gas station in front of a tall building.",
+            "On your west, a bridge over a busy city street with cars.",
+            "You are driving in 1132 York Ave, New York, NY 10065, USA"
+        ],
+        "Question": [
+            "Can you spot any unique features or elements on the facade of the building on our south, next to the gas station?",
+            "Can you identify any environmental-friendly features or initiatives in this area, such as bike lanes or electric vehicle charging stations?",
+            "What are your thoughts on the bridge to our west? Do you think it adds to the aesthetics of the cityscape?",
+            "What do you think is the most common type of businesses found in these tall buildings around us on the east side?",
+            "How do you feel about the traffic in this area? Does it remind you of any other major cities you have visited?"
+        ]
+    },
+    "009433": {
+        "Caption": [
+            "On your north, a red brick building with stairs and a tree in front.",
+            "On your east, a ups truck driving down a city street with cars and buildings.",
+            "On your south, an underground parking garage in front of a tall building.",
+            "On your west, a garbage truck parked on the side of a city street.",
+            "You are driving in 15 E 9th St, New York, NY 10003, USA"
+        ],
+        "Question": [
+            "The tree in front of the building on our north is a common sight in New York City. Can you guess what measures the city takes to maintain and increase its urban greenery?",
+            "As you can see, there's a UPS truck driving on our east. Have you ever wondered about the logistics and operations of such delivery companies and how they manage to deliver millions of packages daily?",
+            "As you can see, the city streets are filled with various types of vehicles, including cars, trucks, and bikes. What are your preferred modes of transportation when exploring a new city?",
+            "Did you know that many of the red brick buildings here in New York, like the one on our north, date back to the late 19th and early 20th centuries? Have you ever lived in or visited a historic building?",
+            "We're currently in the vibrant neighborhood of Greenwich Village. What are some famous landmarks or attractions you're looking forward to visiting while you're in this area?"
+        ]
+    },
+    "003803": {
+        "Caption": [
+            "On your north, a train station with a tall building and a palm tree.",
+            "On your east, a view of a city street with cars and a building.",
+            "On your south, a view of a train track next to a building.",
+            "On your west, an empty street in a city with a red bridge.",
+            "You are driving in 107 W Central Blvd, Orlando, FL 32801, USA"
+        ],
+        "Question": [
+            "Can anyone guess the name of this train station on our north? It's a major transportation hub in Orlando.",
+            "I'd love to hear your thoughts on the urban planning and layout of Orlando, based on what we've seen so far. What do you think the city planners prioritized when designing this area?",
+            "Speaking of transportation, does anyone know the history of train travel in Orlando and how it has impacted the city's development?",
+            "Palm trees are synonymous with Florida. Can anyone tell me the different types of palm trees found in Orlando and which one might be next to the train station?",
+            "Can anyone share any famous movies or TV shows that have been filmed in Orlando, specifically in locations similar to the ones we are passing by?"
+        ]
+    },
+    "004001": {
+        "Caption": [
+            "On your north, a power pole in the middle of a city street.",
+            "On your east, a city street with cars and a building on the side of the road.",
+            "On your south, the front of a white building with a red roof.",
+            "On your west, a street with a palm tree and a building on the side of it.",
+            "You are driving in 42 Concord St, Orlando, FL 32801, USA"
+        ],
+        "Question": [
+            "Have you ever wondered about the history of power poles in urban areas, like the one on our north? Would you be interested in learning about how power distribution has evolved over the years?",
+            "Have you noticed the palm tree on the west side of the street? Did you know that there are over 2,500 species of palm trees, and they are a symbol of relaxation and a tropical vibe?",
+            "As we pass by the white building with a red roof on the south, can you think of any architectural styles or cultures that traditionally use red roofs in their designs?",
+            "While driving through the city streets, have you noticed any unique features that distinguish Orlando from other cities you have visited?",
+            "Considering the number of cars we see on the east side of the street, can you guess how many vehicles are typically registered in a city like Orlando?"
+        ]
+    },
+    "010066": {
+        "Caption": [
+            "On your north, a truck is parked in front of a building on a city street.",
+            "On your east, the building is under construction at the corner of person and street.",
+            "On your south, a construction vehicle parked in front of a building with scaffolding.",
+            "On your west, a building on the corner of a city street.",
+            "You are driving in 406 W 13th St, New York, NY 10014, USA"
+        ],
+        "Question": [
+            "What are some other places or landmarks in New York City that you would like to see during your visit?",
+            "What do you imagine the streetscape will look like once the construction projects in this area are completed?",
+            "Are you familiar with any famous architects or designers who have worked on projects in this area?",
+            "Can anyone share an interesting fact or story about this particular area of New York City?",
+            "Can you guess what the building under construction on our east might be used for once it's completed? "
+        ]
+    },
+    "010276": {
+        "Caption": [
+            "On your north, a building with cars parked in front of it on a city street.",
+            "On your east, a city street with cars driving down it and tall buildings.",
+            "On your south, a yellow taxi cab driving through a busy city street.",
+            "On your west, a busy city street with cars and tall buildings.",
+            "You are driving in 130 6th Ave, New York, NY 10013, USA"
+        ],
+        "Question": [
+            "For those of you who have been to other major cities, how does New York City's traffic and architecture compare to what you've experienced elsewhere?",
+            "Considering our location, we are not far from some famous New York City attractions. Can anyone name a nearby attraction they would like to visit?",
+            "To the north, you can see a building with cars parked in front of it. Can anyone guess what kind of building it is based on its architecture?",
+            "As we continue our tour, are there any specific sites or locations in this area that you would like to learn more about or explore further? Please feel free to ask questions or make requests.",
+            "As we head west, you'll notice the busy city streets filled with cars and tall buildings. What do you think contributes to the high volume of traffic in this area?"
+        ]
+    },
+    "009001": {
+        "Caption": [
+            "On your north, people crossing the street in a busy city street with tall buildings.",
+            "On your east, a city street with a traffic light and tall buildings.",
+            "On your south, a city street with cars and tall buildings.",
+            "On your west, a busy city street with tall buildings and a traffic light.",
+            "You are driving in 8 E 9th St, New York, NY 10003, USA"
+        ],
+        "Question": [
+            "Have you noticed the variety of transportation methods people use in New York City, from biking to skateboarding? What is your preferred method of transportation when exploring a new city?",
+            "New York City is known for its street food vendors. Can you spot any nearby, and if so, what types of cuisine are they offering?",
+            "Can you identify any iconic landmarks or famous buildings in the surrounding area? There are quite a few in this part of New York City!",
+            "As we continue our tour, are there any specific sites or attractions in this neighborhood that you'd like to learn more about or visit?",
+            "Did you know that we are currently in the heart of Greenwich Village, a historic and vibrant neighborhood in Manhattan? What have you heard about this area?"
+        ]
+    },
+    "002432": {
+        "Caption": [
+            "On your north, two street lights in the dark at night.",
+            "On your east, light at the end of a tunnel.",
+            "On your south, a street light in the dark at night.",
+            "On your west, a car is driving through a dark tunnel.",
+            "You are driving in Pittsburgh Union Station, 1100 Liberty Ave, Pittsburgh, PA 15222, USA"
+        ],
+        "Question": [
+            "Lastly, let's discuss the importance of light in our daily lives, both natural and artificial. How do you think the availability of light has impacted human society and culture throughout history, and how does it continue to shape our lives today?",
+            "Can you guess the primary material used in the construction of the Union Station? (Hint: It's a type of stone.)",
+            "Tunnels often have interesting histories or stories behind them. Do you know any famous or intriguing stories related to tunnels in general or specific ones in Pittsburgh?",
+            "As we pass the car driving through the dark tunnel on our west, it reminds me of the role automobiles have played in shaping Pittsburgh's infrastructure. Can you think of any other major cities where the car has had a significant impact on the way the city has grown and developed?",
+            "On our south, we can see a lone street light in the dark at night. Can you think of any famous paintings or photographs that capture the essence of nighttime cityscapes, like the one we're experiencing now?"
+        ]
+    },
+    "000856": {
+        "Caption": [
+            "On your north, a red truck is parked in front of a building.",
+            "On your east, a busy city street with cars driving down it.",
+            "On your south, the side of a building on a city street.",
+            "On your west, a busy intersection in a city with cars and buildings.",
+            "You are driving in 912 Fifth Ave, Pittsburgh, PA 15219, USA"
+        ],
+        "Question": [
+            "Finally, as we explore more of Pittsburgh's downtown area, what are some local dishes or food specialties you would like to try during your visit?",
+            "Did you know that Fifth Avenue is one of the main thoroughfares in Pittsburgh and is home to numerous businesses and attractions? Can anyone guess what some of those attractions might be?",
+            "Pittsburgh is known for its many bridges. Can anyone tell me how many bridges are in the city and which of the three rivers they cross?",
+            "As we continue driving, try to spot any public art installations or murals along the streets. What do you think these pieces of art contribute to the city's cultural identity?",
+            "Can anyone guess the approximate population of Pittsburgh? How do you think the population density affects the traffic we see on this busy city street to our east?"
+        ]
+    },
+    "004166": {
+        "Caption": [
+            "On your north, a city street with cars and people on the corner.",
+            "On your east, a busy city street with cars and tall buildings.",
+            "On your south, a busy city street with cars and a no left turn sign.",
+            "On your west, a city street with cars and pedestrians and buildings.",
+            "You are driving in 171 S Orange Ave, Orlando, FL 32801, USA"
+        ],
+        "Question": [
+            "As we drive along S Orange Ave, can you spot any unique or interesting features about the cars or pedestrians that showcase the local culture?",
+            "On the west side of the street, you might notice some pedestrians wearing clothing with a particular symbol or logo. That's the logo of the Orlando Magic, our local NBA team. Are any of you basketball fans?",
+            "Have you heard about the famous Lake Eola Park in downtown Orlando? We're not too far from it! Can you guess how large the lake is? It's actually 23 acres in size.",
+            "As we continue our tour, keep an eye out for any street art or murals on the buildings. Orlando is known for its vibrant art scene. Can you spot any examples?",
+            "As we drive along these city streets, can you imagine how the city has evolved over the years? The city of Orlando was officially incorporated in 1875. How do you think the cityscape has changed since then?"
+        ]
+    },
+    "009523": {
+        "Caption": [
+            "On your north, a busy city street with people waiting to cross the street at a traffic light.",
+            "On your east, an intersection in a city with a crosswalk and cars on a street.",
+            "On your south, a view of a city street with a car and bicyclists at a crosswalk.",
+            "On your west, a busy intersection with cars and traffic lights and a body of water.",
+            "You are driving in West St/Christopher St, New York, NY 10014, USA"
+        ],
+        "Question": [
+            "Did you know that this area, particularly Christopher Street, is known for its vibrant nightlife and historic bars? Can anyone name a famous bar located nearby?",
+            "Are you aware of the nearby Hudson River Park? What kind of recreational activities would you like to do there?",
+            "What are your impressions of the local street life and atmosphere in this part of New York City? How does it compare to other neighborhoods you've visited during your trip?",
+            "Can you spot any interesting or unique architectural features in the buildings around us? What do you think about the architectural style of this neighborhood?",
+            "How would you rate the walkability and bike-friendliness of this area of New York City? Do you find it easy to get around on foot or by bicycle?"
+        ]
+    },
+    "004142": {
+        "Caption": [
+            "On your north, a traffic light at an intersection in a city with cars.",
+            "On your east, a view of a city street with a traffic light and buildings.",
+            "On your south, an intersection in a city with tall buildings.",
+            "On your west, a city street with tall buildings and a car driving down it.",
+            "You are driving in S Orange Ave, Orlando, FL 32801, USA"
+        ],
+        "Question": [
+            "Notice the variety of businesses along S Orange Ave. Can you identify any local businesses or chains that you are excited to visit during your trip?",
+            "Speaking of traffic lights, did you know that the first electric traffic light was installed in Cleveland, Ohio in 1914? Can you imagine how different driving was before traffic lights were introduced?",
+            "Are any of you familiar with the history of Orlando? The city was originally incorporated in 1875, and since then it has grown into a major tourist destination. What are some other historical facts you might know about Orlando?",
+            "This city street we're on is part of the larger Orlando urban area, which is home to over 2.5 million residents. Have any of you visited other cities in Florida? How do you think Orlando compares?",
+            "As we continue on our tour, I encourage you to keep an eye out for the numerous public art installations scattered throughout the city. Can you spot any murals or sculptures as we drive along?"
+        ]
+    },
+    "000565": {
+        "Caption": [
+            "On your north, a city street with a bus driving down it and tall buildings.",
+            "On your east, an old retaining wall in front of a stadium on a city street.",
+            "On your south, an empty street with a train bridge in the background.",
+            "On your west, the parking lot is full of cars in a parking lot.",
+            "You are driving in 120 11th St, Pittsburgh, PA 15222, USA"
+        ],
+        "Question": [
+            "Lastly, Pittsburgh is known for its vibrant food scene. Have you had a chance to try any local dishes or visit any popular restaurants nearby? If so, which ones would you recommend?",
+            "Considering that the parking lot to our west is full of cars, it's clear that many people rely on their vehicles to navigate the city. What are your thoughts on the balance between public transportation and personal vehicles in urban areas like Pittsburgh?",
+            "As we drive through Pittsburgh's streets, take notice of the city's unique architecture. Can you identify any specific architectural styles or features that stand out to you?",
+            "Do you know that Pittsburgh is known as the \"City of Bridges\"? Can you guess how many bridges are there in the city? Hint: It's over 400!",
+            "Did you know that the tall buildings to our north are a part of Pittsburgh's iconic skyline, which has evolved over time with the city's growth and development? Can you imagine how different it must have looked a century ago?"
+        ]
+    },
+    "006362": {
+        "Caption": [
+            "On your north, a parking lot filled with cars and buses in front of a building.",
+            "On your east, a busy city street with cars and a yellow taxi.",
+            "On your south, a city street with cars and a tall brick building.",
+            "On your west, a busy city street filled with traffic and tall buildings.",
+            "You are driving in E 23 St & 1 Av, New York, NY 10010, USA"
+        ],
+        "Question": [
+            "How many different types of vehicles can you spot in the busy traffic to our west? Let's see who can count the most!",
+            "Do you see any street performers or artists in the area? New York is a hub for creative expression, and you never know what you might come across!",
+            "As we continue our drive, try to spot any iconic New York landmarks or symbols \u2013 like the Statue of Liberty or the Empire State Building \u2013 on signs, advertisements, or even people's clothing. Who can find the most?",
+            "The street to our south is known for its beautiful brick buildings. Can you identify the architectural style of the tall brick building we see there?",
+            "Have you ever ridden in a New York yellow taxi like the one we see to the east? What was your experience like?"
+        ]
+    },
+    "006005": {
+        "Caption": [
+            "On your north, a view of the city of san francisco from the beach.",
+            "On your east, a city street with cars and buses on it.",
+            "On your south, a yellow building on a city street with a white van.",
+            "On your west, a city street with cars and tall buildings.",
+            "You are driving in 265 West St, New York, NY 10013, USA"
+        ],
+        "Question": [
+            "There's a white van parked next to the yellow building. Let's take a moment to discuss the importance of commercial vehicles in a city like New York. Can anyone provide an example of a small business that relies on vans or trucks for their operations?",
+            "The architecture in this area is quite diverse. Do any of you have a favorite architectural style or iconic building in New York City?",
+            "As we look west, we can see a city street lined with tall buildings. New York City is known for its skyscrapers. Can anyone name the tallest building in New York City?",
+            "To our north, we can see a beautiful view of San Francisco from the beach. Have any of you visited San Francisco before, and if so, what were your favorite attractions?",
+            "Lastly, this area of New York City is known for its rich history and culture. Are there any specific historical sites or cultural institutions that you're looking forward to visiting during your stay?"
+        ]
+    },
+    "008041": {
+        "Caption": [
+            "On your north, a group of people walking down a street in front of a building.",
+            "On your east, a white van parked on a street in front of a tall building.",
+            "On your south, a van parked in front of a building on a city street.",
+            "On your west, a street view of a busy city street with tall buildings.",
+            "You are driving in 1017 6th Ave, New York, NY 10018, USA"
+        ],
+        "Question": [
+            "Speaking of the tall buildings in the area, do you know which famous New York City skyscraper is just a few blocks away from our current location? That's right, it's the Empire State Building!",
+            "I noticed that there are several vans parked around us. What types of businesses do you think rely on vans for their daily operations in a bustling city like New York?",
+            "Do you know the name of the famous Broadway theater district that's just a few blocks away from our current location? It's known as the Theater District, and it's home to some of the most iconic Broadway shows.",
+            "Have you tried any food from the food trucks or street vendors in New York City? They're quite popular and offer a wide variety of delicious options. Can you see any food vendors nearby?",
+            "Did you know that 1017 6th Ave is located near the heart of Midtown Manhattan, which is one of the most bustling and vibrant areas in New York City? Have you visited Midtown before?"
+        ]
+    },
+    "003062": {
+        "Caption": [
+            "On your north, the front of a building with a sign that readsmalink brothers bar  grill.",
+            "On your east, a busy city street with cars and tall buildings.",
+            "On your south, a park in the middle of a city street.",
+            "On your west, a view of a street corner in a city with tall buildings.",
+            "You are driving in 2 Market Square, Pittsburgh, PA 15222, USA"
+        ],
+        "Question": [
+            "Are you familiar with the history of Market Square? It dates back to the 18th century and has since been a gathering place for locals and visitors alike. How do you think this area has evolved over time?",
+            "Lastly, do you have any recommendations for places to visit, eat, or shop in the Market Square area? I'm always eager to hear about new spots to check out and share with future guests.",
+            "Have any of you dined at the Primanti Bros. Bar & Grill before? It's a local favorite, known for their delicious sandwiches topped with fries and coleslaw. Would you be interested in trying it out later?",
+            "What kind of activities or events would you like to attend in Market Square? There are often concerts, farmers' markets, and other events happening in this area.",
+            "To our west, we see an interesting street corner with tall buildings. Can anyone identify any landmarks or notable establishments in that direction?"
+        ]
+    },
+    "009283": {
+        "Caption": [
+            "On your north, a white van parked in front of a brick building.",
+            "On your east, a busy city street with cars driving down it.",
+            "On your south, the apartment building is shown from across the street.",
+            "On your west, a busy city street filled with cars and buildings.",
+            "You are driving in 208 E 13th St, New York, NY 10003, USA"
+        ],
+        "Question": [
+            "Do you see that white van parked to the north? It's a common sight in NYC - street vendors use these vans to sell everything from snacks to clothing.",
+            "Can you guess how old some of these brick buildings might be? Many of them date back to the 19th and early 20th century!",
+            "Have any of you experienced the nightlife in this area? There are countless bars, restaurants, and music venues nearby that cater to a wide range of tastes.",
+            "How many of you have been to New York City before? If this is your first time, what are you most excited to see or experience?",
+            "Are you familiar with the concept of a \"stoop\"? It's a common architectural feature in New York City, and you can see several examples on the apartment buildings to the south."
+        ]
+    },
+    "000397": {
+        "Caption": [
+            "On your north, two people crossing the street at a traffic light on a city street.",
+            "On your east, a city street with a red traffic light and buildings.",
+            "On your south, a city street with cars parked on the side of the road.",
+            "On your west, a view of a city street with a car driving down it.",
+            "You are driving in 9th St at Penn Ave, Pittsburgh, PA 15222, USA"
+        ],
+        "Question": [
+            "How do you feel about the parking situation in downtown Pittsburgh? Do you think the availability of street parking is adequate for the number of visitors and residents?",
+            "Can you spot any local businesses or restaurants that you'd like to try during your stay in Pittsburgh?",
+            "What do you think about the architecture of the buildings around us? Pittsburgh has a mix of historic and modern buildings that showcase the city's rich history and growth.",
+            "How do the traffic and transportation systems in Pittsburgh compare to your hometown? Do you find it easy to navigate the city streets?",
+            "Did you know that Pittsburgh is known as the \"City of Bridges\" due to its 446 bridges? Can you spot any around us as we drive through the city?"
+        ]
+    },
+    "008965": {
+        "Caption": [
+            "On your north, people crossing the street at a crosswalk in a busy city street.",
+            "On your east, people crossing the street in a busy city street with tall buildings.",
+            "On your south, people crossing the street at a crosswalk in a city street with cars and buildings.",
+            "On your west, a city street with a truck driving down it.",
+            "You are driving in Astor Pl/3 Av, New York, NY 10003, USA"
+        ],
+        "Question": [
+            "Have you ever visited the nearby Cooper Union, one of the most prestigious private colleges in the United States, known for its architecture, engineering, and art programs?",
+            "Did you know that Astor Place is also a hub for public transportation, with access to several subway lines? This makes it an ideal starting point for exploring other parts of New York City. What other neighborhoods would you like to visit during your stay?",
+            "Did you know that Astor Place is named after John Jacob Astor, a German-American businessman who was one of the wealthiest people in the world in the early 19th century?",
+            "Have you been to Washington Square Park? This popular park, located just a few blocks from here, is a great place to relax, people-watch, and enjoy live music performed by local musicians.",
+            "Can you spot the historic Colonnade Row on Lafayette Street just a few blocks from here? These Greek Revival townhouses date back to the 1830s and are a beautiful example of early New York City architecture."
+        ]
+    },
+    "000535": {
+        "Caption": [
+            "On your north, the underside of a bridge at night.",
+            "On your east, a view of a highway from under a bridge.",
+            "On your south, a view of the underside of a bridge at night.",
+            "On your west, a highway with cars and trucks driving under a bridge.",
+            "You are driving in 901 Fort Duquesne Blvd, Pittsburgh, PA 15222, USA"
+        ],
+        "Question": [
+            "The bridges of Pittsburgh are not only functional but also offer beautiful views of the city. Have you taken any memorable photos of the bridges or the cityscape during your visit?",
+            "The bridge we're driving under is called the Fort Duquesne Bridge, connecting the North Shore and Downtown Pittsburgh. Does anyone know the nickname of this iconic bridge?",
+            "As we drive under these bridges, it's a great opportunity to talk about the history of Pittsburgh's steel industry. Did you know that Pittsburgh was once the center of steel production in the United States?",
+            "As we look to the east, you can see the highway from under the bridge. What do you think about the infrastructure and transportation system in Pittsburgh compared to your hometown?",
+            "Lastly, as we continue our tour, are there any specific bridges or areas in Pittsburgh that you'd like to explore further? Feel free to share your interests, and I'll be happy to provide more information on those locations."
+        ]
+    },
+    "007837": {
+        "Caption": [
+            "On your north, the corner of a city street in front of a building.",
+            "On your east, a busy city street with cars and taxis and tall buildings.",
+            "On your south, a view of a busy city street with pedestrians and cars.",
+            "On your west, a truck driving down a city street next to tall buildings.",
+            "You are driving in 404 5th Ave 3rd floor, New York, NY 10018, USA"
+        ],
+        "Question": [
+            "Can anyone tell me the name of the iconic New York City taxis that you can see driving on the east side? ",
+            "We are currently at 404 5th Ave. Can anyone tell me the significance of 5th Avenue in New York City's history and culture?",
+            "As we drive through this busy city street, can you notice any unique architectural styles in the tall buildings around us? ",
+            "Speaking of taxis, would anyone like to guess how many yellow taxis are currently in New York City?",
+            "Can you guess how many miles of streets there are in New York City, based on what we see around us? "
+        ]
+    },
+    "009715": {
+        "Caption": [
+            "On your north, a busy city street with trucks and cars on it.",
+            "On your east, a view of a city street with buildings and a street light.",
+            "On your south, a view of a parking lot with cars and trees.",
+            "On your west, a busy city street with trucks parked on the side of the road.",
+            "You are driving in 353 Spring St, New York, NY 10013, USA"
+        ],
+        "Question": [
+            "Have you noticed the variety of architectural styles among the buildings along the east side of the street? Do you have a favorite style?",
+            "As we continue on our tour, keep an eye out for street art and murals. SoHo is known for its vibrant street art scene. Have you seen any memorable pieces during your time here?",
+            "On the west side of the road, you'll see trucks parked alongside the street. Many of these trucks are part of the city's delivery system. Can you guess how many delivery trucks operate in New York City every day?",
+            "Looking south, you can see a parking lot filled with cars and trees. Do you think having green spaces like this is important in a densely populated city like New York? Why or why not?",
+            "In the SoHo neighborhood, you can find a variety of shops, galleries, and restaurants. What type of store or restaurant would you most like to visit during your time here?"
+        ]
+    },
+    "004376": {
+        "Caption": [
+            "On your north, a view of a park with trees and a soccer field.",
+            "On your east, a view of a city street with cars and buildings.",
+            "On your south, a white van parked on a street next to a park.",
+            "On your west, a city street with trees and a tall building.",
+            "You are driving in 339 N Rosalind Ave, Orlando, FL 32801, USA"
+        ],
+        "Question": [
+            "How do you feel about the balance between green spaces, like parks, and urban development in this area? Is it well planned?",
+            "Can you imagine what this area might have looked like 50 years ago? How do you think the city has evolved over the years?",
+            "Have any of you visited this park on the north side before? It's a popular spot for picnics and sports like soccer.",
+            "Are there any city events, festivals, or sports games happening around this area that you would like to attend while you're in Orlando?",
+            "As we drive along this busy city street to the east, can you spot any architectural styles on the buildings that you find interesting?"
+        ]
+    },
+    "003857": {
+        "Caption": [
+            "On your north, a man walking in front of a large building.",
+            "On your east, a parking lot between two buildings on a cloudy day.",
+            "On your south, the side of a white building with windows and a parking meter.",
+            "On your west, a street in the city with buildings and a police car.",
+            "You are driving in 47 W Jefferson St, Orlando, FL 32801, USA"
+        ],
+        "Question": [
+            "Would anyone like to share their thoughts on how the parking lot on our east might have been designed to maximize the number of cars it can hold?",
+            "Does anyone know how parking meters, like the one on our south, first came to be implemented in cities?",
+            "Do you have any suggestions for places to visit, eat, or explore nearby that you've heard about or experienced before? We'd love to hear your recommendations!",
+            "How does this area of Orlando compare to other cities or neighborhoods you have visited? Are there any similarities or differences that stand out to you?",
+            "Has anyone noticed the police car on our west side? Can you tell the difference between a local police car and a state trooper vehicle?"
+        ]
+    },
+    "008986": {
+        "Caption": [
+            "On your north, a view of a city street with tall buildings.",
+            "On your east, a van is parked in front of a tall building.",
+            "On your south, the corner of a city street with cars and a building.",
+            "On your west, a building on the corner of a city street.",
+            "You are driving in 43 E 8th St, New York, NY 10003, USA"
+        ],
+        "Question": [
+            "As you can see, there are many tall buildings around us. Can you guess the average height of these buildings and how many floors they might have?",
+            "On the east side, we have a van parked in front of a building. Can anyone guess what type of business or activity might be happening inside that building?",
+            "On the west side, we have a building on the corner of a city street. Can you imagine what kind of businesses or residents might occupy this building?",
+            "Did you know that we are currently located in Greenwich Village, a neighborhood in Lower Manhattan, New York City? This area is known for its bohemian culture and artistic history. Have any of you visited this neighborhood before?",
+            "Lastly, what are some of the unique sights, sounds, or smells that you've experienced so far while exploring this vibrant neighborhood?"
+        ]
+    },
+    "005159": {
+        "Caption": [
+            "On your north, people standing outside of a tall building on a city street.",
+            "On your east, a busy city street filled with cars and ambulances.",
+            "On your south, the store is on the corner of a city street.",
+            "On your west, a busy city street with cars and pedestrians on a bridge.",
+            "You are driving in 14 St - Union Sq, New York, NY 10003, USA"
+        ],
+        "Question": [
+            "The store on the south corner is a popular spot for locals. Can you think of a similar store in your hometown that serves as a community hub?",
+            "How do you feel about the energy and fast-paced atmosphere of a busy New York City street like the one we see on our east?",
+            "Have you ever experienced a ride in a New York City ambulance? If so, how was your experience?",
+            "Can you guess how old some of these buildings might be, based on their design and appearance?",
+            "What is your impression of New York City so far, and is there anything in particular you're excited to see or do during your visit?"
+        ]
+    },
+    "002816": {
+        "Caption": [
+            "On your north, a view of a building on a city street.",
+            "On your east, an empty street in a city with cars parked on the side of it.",
+            "On your south, a man is standing in front of a parking garage.",
+            "On your west, a city street with cars and pedestrians and tall buildings.",
+            "You are driving in 631 Smithfield St, Pittsburgh, PA 15222, USA"
+        ],
+        "Question": [
+            "The empty street to our east seems unusually quiet for a city. What do you think could be the reason for the lack of traffic and activity in that area?",
+            "As we head west, notice the bustling city street with cars and pedestrians. What are some features that make this street stand out compared to the other streets we've seen so far?",
+            "Pittsburgh has a diverse culinary scene. Can you spot any restaurants or cafes along our route that you would like to try?",
+            "As we drive along Smithfield Street, can you identify any historical landmarks or notable buildings that you may have heard of?",
+            "Notice the building on our north side. What architectural style do you think it represents and why?"
+        ]
+    },
+    "002345": {
+        "Caption": [
+            "On your north, a man standing in front of a city skyline.",
+            "On your east, the view of the city from an empty highway.",
+            "On your south, a view of the parking lot of a gas station in a parking lot.",
+            "On your west, a view of a city street with a tall building in the distance.",
+            "You are driving in 1001 Fifth Ave, Pittsburgh, PA 15219, USA"
+        ],
+        "Question": [
+            "Pittsburgh is home to several world-class museums and cultural institutions. Have you had a chance to visit any of them, such as the Andy Warhol Museum, Carnegie Museum of Art, or Phipps Conservatory and Botanical Gardens?",
+            "The gas station to the south is just one of the many amenities available in the city. What are some of your favorite places to grab a bite to eat or shop in Pittsburgh?",
+            "Pittsburgh's architecture is known for its mix of styles, from historic to modern. What are some of your favorite buildings or architectural styles you've seen during your visit?",
+            "The city of Pittsburgh is home to numerous universities and colleges, including the University of Pittsburgh and Carnegie Mellon University. Have any of you studied or visited these institutions?",
+            "The empty highway to the east offers a great panoramic view of the city. Have you noticed how the geography of Pittsburgh's three rivers shapes the city's layout?"
+        ]
+    },
+    "003056": {
+        "Caption": [
+            "On your north, the front of a restaurant on a city street.",
+            "On your east, a busy city street with cars and tall buildings.",
+            "On your south, a building with a sign for camera repair services.",
+            "On your west, a view of a city street with cars and buildings.",
+            "You are driving in 28 Market Square, Pittsburgh, PA 15222, USA"
+        ],
+        "Question": [
+            "To our west, you can see a view of a city street with cars and buildings. Do any of these buildings or streets remind you of another city you've visited before? If so, which one?",
+            "As you can see to our north, there's a lovely restaurant. What type of cuisine do you think it offers, and would you be interested in trying it out during your stay in Pittsburgh?",
+            "This area of Pittsburgh is known for its vibrant arts and culture scene. Can you think of any famous artists or cultural events that are associated with the city?",
+            "This neighborhood is known for its diverse mix of businesses and residential spaces. What type of establishments or amenities would you like to explore during your time in Pittsburgh?",
+            "Pittsburgh is well-known for its beautiful architecture. Can you spot any unique architectural features on the buildings surrounding us?"
+        ]
+    },
+    "009970": {
+        "Caption": [
+            "On your north, a view of a busy city street with cars and buildings.",
+            "On your east, a parking lot with cars and trees in front of a building.",
+            "On your south, a highway with cars driving down it and a bridge in the distance.",
+            "On your west, a white van is driving down the street.",
+            "You are driving in 163 12th Ave, New York, NY 10011, USA"
+        ],
+        "Question": [
+            "As we drive alongside the white van on our west, I'd like to point out that New York City is home to many small businesses that rely on vans like these for deliveries. Have you ever considered what a day in the life of a delivery driver in NYC might look like?",
+            "Did you know that 12th Avenue is also known as the West Side Highway? It's a major thoroughfare in Manhattan that runs along the Hudson River. Do you enjoy scenic drives like this one?",
+            "Speaking of the parking lot, have you noticed the variety of cars parked there? New York City is known for its diverse population, and that diversity is reflected in the vehicles you see around you. Can you spot any particularly interesting cars?",
+            "As we drive through this busy city street, can you imagine what life was like in the early days of New York City, when horses and carriages ruled the streets instead of cars?",
+            "I'm sure you've noticed the number of trees in this area, particularly in the parking lot to our east. Did you know that New York City has over 5 million trees? How do you think this contributes to the overall atmosphere of the city?"
+        ]
+    },
+    "004325": {
+        "Caption": [
+            "On your north, a view of the entrance to prince georges hospital on the corner of a.",
+            "On your east, a traffic light over a city street with cars and buildings.",
+            "On your south, a view of a city street with cars and buildings.",
+            "On your west, a view of a city street with cars and buildings.",
+            "You are driving in 258 S Rosalind Ave, Orlando, FL 32801, USA"
+        ],
+        "Question": [
+            "Are any of you familiar with the public transportation options available in Orlando? What are your thoughts on using public transit versus driving in a city like this?",
+            "On our west, we can see a mix of residential and commercial buildings. Does anyone know the history of Orlando's downtown development and how it has evolved over the years?",
+            "Speaking of traffic lights, can anyone tell me when the first electric traffic light was installed in the United States?",
+            "To our south, you can see a variety of businesses on this city street. Can anyone identify a local business they'd like to visit or learn more about during our trip?",
+            "Lastly, as we drive through this bustling city, what are some things you hope to experience or learn during our time together on this tour?"
+        ]
+    },
+    "002666": {
+        "Caption": [
+            "On your north, the parking lot is full of cars in a parking lot.",
+            "On your east, a highway under a bridge with cars parked under it.",
+            "On your south, an empty parking lot next to an overpass.",
+            "On your west, a city street with cars driving down it and a building.",
+            "You are driving in 1399 Smallman St, Pittsburgh, PA 15222, USA"
+        ],
+        "Question": [
+            "Pittsburgh has a rich history in the steel industry, which led to its nickname \"Steel City.\" Do you notice any remnants or influences of the steel industry around us, like the bridge we see to the east?",
+            "Street art can be found throughout Pittsburgh, adding character and color to the city. Can you spot any murals, sculptures, or other public art installations as we drive through this area?",
+            "It's interesting to see how various transportation methods coexist in a city like Pittsburgh. How do you think the presence of highways and overpasses has affected the development of the city's urban landscape?",
+            "Pittsburgh is also known for its vibrant food scene, influenced by the many immigrant communities that have called the city home. As we continue our tour, are there any local dishes or restaurants you're excited to try?",
+            "Have you ever wondered how parking lots and overpasses might impact the environment? What are some ways that city planners can create more sustainable urban environments?"
+        ]
+    },
+    "006395": {
+        "Caption": [
+            "On your north, a school bus is parked on a city street.",
+            "On your east, a busy city street filled with yellow school buses.",
+            "On your south, a school bus parked in front of a building on a city street.",
+            "On your west, a yellow penske truck driving down a busy city street.",
+            "You are driving in E 23 St/2 Av, New York, NY 10010, USA"
+        ],
+        "Question": [
+            "Did you know that New York City has over 8,000 school buses transporting students every day? Can you imagine the logistics involved in coordinating all those buses?",
+            "Considering that we are on 2nd Avenue, did you know that it is one of the major avenues in Manhattan and runs from Houston Street to 128th Street? What other major avenues can you think of in New York City?",
+            "Can you spot any local businesses or shops in the area that you would like to visit? New York City is known for its unique and diverse small businesses. Do you have a favorite type of store or restaurant to visit when traveling?",
+            "As we drive by this Penske truck, have you ever wondered about the moving trends in New York City? According to recent studies, New Yorkers move more frequently than the national average. Why do you think that is?",
+            "Let's talk about traffic safety. With so many vehicles on the road, including school buses and trucks, what are some safety tips you think are essential for navigating the busy streets of New York City?"
+        ]
+    },
+    "002636": {
+        "Caption": [
+            "On your north, a yellow taxi cab driving through an empty city street.",
+            "On your east, a tree lined street with a car driving down it.",
+            "On your south, a traffic light on the corner of a city street.",
+            "On your west, an empty street in front of a large building.",
+            "You are driving in 901 Fort Duquesne Blvd, Pittsburgh, PA 15222, USA"
+        ],
+        "Question": [
+            "We're about to pass a large building on our west. Can anyone guess what type of building it is just by looking at its architecture?",
+            "As we drive along this tree-lined street, can anyone identify any of the tree species we're seeing? Pittsburgh is known for its urban greenery!",
+            "As we approach this traffic light, can you share any interesting facts or trivia about the history of traffic lights?",
+            "Speaking of yellow taxi cabs, have you ever taken a taxi in a foreign country? If so, what was your experience like?",
+            "Pittsburgh is known for its sports culture, with various professional teams. Can you name some of those teams, and have you ever attended a game here?"
+        ]
+    },
+    "003125": {
+        "Caption": [
+            "On your north, a building with a street and trees in front of it.",
+            "On your east, a view of a highway with cars driving past a large building with a curved roof.",
+            "On your south, a city street with a hill with trees and a street light.",
+            "On your west, the view of a busy highway with cars driving down it.",
+            "You are driving in 545 N Garland Ave, Orlando, FL 32801, USA"
+        ],
+        "Question": [
+            "Notice the architecture of the building with the curved roof to the east \u2013 what do you think the purpose of that building is?",
+            "Can you guess the height of the hill to the south? How do you think the landscape has changed over time in this area?",
+            "The trees you see in front of the building to the north are a mix of native and non-native species. Can anyone identify any of the trees by their leaves or bark?",
+            "As we drive along Garland Ave, can you spot any notable landmarks or historical sites that you'd like to learn more about?",
+            "Based on the surroundings we've seen so far, what are some aspects of Orlando's culture or history that you'd like to explore further during your visit?"
+        ]
+    },
+    "003728": {
+        "Caption": [
+            "On your north, a view of a building from a sidewalk with trees.",
+            "On your east, an empty street in a city with tall buildings.",
+            "On your south, the side of a building with a pipe coming out of it.",
+            "On your west, a bus driving down a street next to a tall building.",
+            "You are driving in 15 S Court Ave, Orlando, FL 32801, USA"
+        ],
+        "Question": [
+            "Can anyone guess the architectural style of the building on our north? It's quite a popular style in this area.",
+            "What are your thoughts on the urban planning and design of this particular area of downtown Orlando? Do you find it pedestrian-friendly?",
+            "Can you guess the approximate height of the tallest building visible from our current location?",
+            "Considering the buildings and streets around us, what kind of economic activities or industries do you think are most prominent in this area of Orlando?",
+            "Can you spot any public art installations or sculptures nearby? What do you think is the significance of these pieces in the urban landscape?"
+        ]
+    },
+    "008335": {
+        "Caption": [
+            "On your north, a dirty wall in a parking garage.",
+            "On your east, a highway under a bridge with cars driving under it.",
+            "On your south, a car driving under a bridge over a river.",
+            "On your west, a busy highway with cars under a bridge.",
+            "You are driving in 19 Ed Koch Queensboro Bridge, New York, NY 10022, USA"
+        ],
+        "Question": [
+            "Can anyone guess when the Queensboro Bridge was first opened? (Hint: It was over a century ago!)",
+            "As we observe the cars driving under the bridge, can anyone name any famous movies or TV shows that have featured the Queensboro Bridge in their scenes?",
+            "Have you ever heard of a famous song that mentions the Queensboro Bridge, written by a well-known American singer-songwriter? (Hint: The artist is Simon & Garfunkel)",
+            "Looking at the dirty wall in the parking garage, can you imagine how urban art and murals could potentially transform the appearance of this space?",
+            "Lastly, as we enjoy this bustling highway scene, what are your favorite memories or experiences of driving or exploring New York City so far?"
+        ]
+    },
+    "003923": {
+        "Caption": [
+            "On your north, a palm tree in the middle of a city street.",
+            "On your east, a city street with trees and buildings on either side of it.",
+            "On your south, a red and white building with a sidewalk and a street light.",
+            "On your west, a city street with palm trees and tall buildings.",
+            "You are driving in 47 E Robinson St, Orlando, FL 32801, USA"
+        ],
+        "Question": [
+            "As we continue driving along this route, can you spot any signs indicating nearby points of interest or attractions that you would like to visit during your stay in Orlando?",
+            "Did you know that Orlando is nicknamed \"The City Beautiful\"? Can you see why, with all these lovely palm trees and greenery around us?",
+            "As we pass by this red and white building, do you know what purpose it serves? Could it be a local business or perhaps a historic site?",
+            "Orlando is a very walkable city. Have you noticed the wide sidewalks and pedestrian-friendly design? What do you think makes a city walkable and easy to navigate?",
+            "Have you noticed the architecture of the buildings around us? Orlando has a mix of modern and historic buildings. Can you identify any specific architectural styles?"
+        ]
+    },
+    "004973": {
+        "Caption": [
+            "On your north, people walking on a busy city street in front of a subway station.",
+            "On your east, a busy city street with taxis and people crossing the street.",
+            "On your south, a busy city street filled with people and tall buildings.",
+            "On your west, a city street with cars parked on the side of the road.",
+            "You are driving in 34 Street - Penn Station, New York, NY 10120, USA"
+        ],
+        "Question": [
+            "Can you spot any street vendors selling food or souvenirs? What kind of street food would you like to try while you're in New York City?",
+            "Did you know that Penn Station is one of the busiest transportation hubs in New York City, serving over 600,000 passengers daily? Have you ever been inside?",
+            "Looking at the parked cars on the west side of the street, can you identify any unique or unusual vehicles? What is your favorite car model or brand?",
+            "Notice the subway station to the north. Are you familiar with the New York City subway system? If so, do you have any favorite lines or stations you like to use?",
+            "Do you see the iconic yellow taxis on the east side of the street? Have you ever taken a ride in a New York City taxi? If so, how was your experience?"
+        ]
+    },
+    "009172": {
+        "Caption": [
+            "On your north, a city street with cars parked in front of tall buildings.",
+            "On your east, a view of the apartment building from the street.",
+            "On your south, a busy city street with cars and tall buildings.",
+            "On your west, a building with scaffolding on the side of a street.",
+            "You are driving in 424 E 57th St, New York, NY 10022, USA"
+        ],
+        "Question": [
+            "How does the atmosphere of this part of New York City differ from other areas that we have visited on this tour? What are some unique qualities that stand out to you?",
+            "What do you think the primary mode of transportation is for people living in this area: car, bike, or public transit?",
+            "Can anyone guess how many floors are in the tallest building we see around us right now?",
+            "Can anyone spot any interesting features, like statues or murals, on any of these buildings around us?",
+            "If you were to live in one of these buildings, which direction would you choose for the view from your apartment: north, east, south, or west? And why?"
+        ]
+    },
+    "004127": {
+        "Caption": [
+            "On your north, a small red house with a porch and cars parked in front of it.",
+            "On your east, a city street with cars and a bridge.",
+            "On your south, the side of a building with palm trees and a fence.",
+            "On your west, a city street with cars driving down it and a wall on the side.",
+            "You are driving in 310 E Anderson St, Orlando, FL 32801, USA"
+        ],
+        "Question": [
+            "Can anyone share their favorite experience they've had in Orlando so far? It's always great to hear personal stories of fun and adventure!",
+            "Lastly, I'd like to know, what is one landmark or attraction you're looking forward to visiting during your time here in Orlando?",
+            "What do you think the building to our south is used for? Let's brainstorm some ideas based on its exterior appearance.",
+            "Speaking of cars, do you know the most popular car brand in Orlando? You might notice a trend as we drive down the city streets.",
+            "Did you know that the red house on our north is a typical Floridian architectural style with its porch and vibrant colors?"
+        ]
+    },
+    "006545": {
+        "Caption": [
+            "On your north, a tree in front of a brick building.",
+            "On your east, a bus driving down a street next to a building.",
+            "On your south, a city street with trees and a parking lot.",
+            "On your west, a city street with cars and trees and tall buildings.",
+            "You are driving in 369-305 E 40th St, New York, NY 10016, USA"
+        ],
+        "Question": [
+            "Have you noticed the variety of tree species lining the streets of New York? How many different types of trees can you spot on our south side?",
+            "How do you feel about the overall atmosphere and vibe of this particular neighborhood in New York City? Would you consider living here or do you prefer a different area?",
+            "Can you identify any specific architectural features on the buildings around us that are characteristic of New York City's style?",
+            "What is your impression of the architectural styles of these tall buildings on our west? Do you prefer modern skyscrapers or historic buildings?",
+            "Do you know any famous landmarks or attractions that are located in this area of Manhattan, near East 40th Street?"
+        ]
+    },
+    "002792": {
+        "Caption": [
+            "On your north, a bus stopped at a bus stop on a city street.",
+            "On your east, a busy city street with cars and a bus on it.",
+            "On your south, a cvs pharmacy on the corner of a city street.",
+            "On your west, a street in the city with tall buildings.",
+            "You are driving in 433 Smithfield St, Pittsburgh, PA 15222, USA"
+        ],
+        "Question": [
+            "I see a CVS Pharmacy on our south side. Did you know that CVS is one of the largest pharmacy chains in the United States? Can you think of any other major pharmacy chains in the country?",
+            "Lastly, as we continue to drive through this vibrant city, have you noticed the cultural diversity present in Pittsburgh? Can you name some cultural or ethnic neighborhoods that you would be interested in exploring during your stay?",
+            "You may have noticed the prominence of buses in this area. Did you know that Pittsburgh is planning to implement a Bus Rapid Transit system to improve the efficiency of public transportation? What are some benefits you can think of for having such a system in place?",
+            "Did you know that Pittsburgh is known as the \"City of Bridges\"? Can anyone guess how many bridges there are in the city? (Hint: It's over 400!)",
+            "Since we're in downtown Pittsburgh, are you aware of any popular attractions or landmarks in the area that you would like to visit or learn more about?"
+        ]
+    },
+    "003671": {
+        "Caption": [
+            "On your north, a parking lot filled with cars in front of tall buildings.",
+            "On your east, a street in a city with tall buildings.",
+            "On your south, a red car driving down a street in front of a building.",
+            "On your west, a view of a street with a church in the distance.",
+            "You are driving in 50 E South St, Orlando, FL 32801, USA"
+        ],
+        "Question": [
+            "What types of businesses or offices do you think are located within these tall buildings surrounding us?",
+            "As we continue on our tour, are there any specific places or landmarks in Orlando that you are particularly excited to see or learn more about?",
+            "What are your thoughts on the urban planning and layout of this area of Orlando compared to other cities you have visited?",
+            "Do you notice the variety of architectural styles in the tall buildings on the north and east side of the street? Can you identify any specific styles?",
+            "Have you ever been to any other cities with a similar skyline to what we see here in Orlando? If so, which ones?"
+        ]
+    },
+    "002249": {
+        "Caption": [
+            "On your north, people walking in front of a building at night.",
+            "On your east, a city street with cars driving down it and tall buildings.",
+            "On your south, a van parked in front of a stone building.",
+            "On your west, a city street with a truck and buildings.",
+            "You are driving in 414 Grant St, Pittsburgh, PA 15219, USA"
+        ],
+        "Question": [
+            "Finally, have you noticed any public art installations or murals as we've been driving? Pittsburgh has a strong arts community, and you can often find stunning artwork throughout the city.",
+            "Pittsburgh has a rich sports history, with football, baseball, and hockey teams. Can you spot any sports-related landmarks or memorabilia as we drive through the city streets?",
+            "Speaking of local businesses, have you had a chance to try any famous Pittsburgh food during your visit, like a Primanti Bros. sandwich?",
+            "Pittsburgh has a vibrant nightlife scene. What kinds of nighttime activities do you think the people walking in front of the building to our north might be participating in?",
+            "The stone building to our south is an example of Pittsburgh's rich architectural history. Can you guess the approximate age of this building based on its design?"
+        ]
+    },
+    "000145": {
+        "Caption": [
+            "On your north, the entrance of a building with stairs in front of it.",
+            "On your east, an empty street in the city with tall buildings.",
+            "On your south, the side of a building with two parking meters in front of it.",
+            "On your west, a city street with buildings and a bridge.",
+            "You are driving in One, PPG Place, Suite 2900, Pittsburgh, PA 15222, USA"
+        ],
+        "Question": [
+            "I see some parking meters to the south. Does anyone know when parking meters were first introduced in the United States?",
+            "Can anyone guess the architectural style of the buildings surrounding us? They are actually designed in the Postmodern Gothic style.",
+            "Are you aware that Pittsburgh is known as the \"City of Bridges\"? Can anyone guess why this city has so many bridges?",
+            "As we continue our tour, what are some other landmarks or attractions in Pittsburgh that you're looking forward to seeing?",
+            "As we drive through this empty street, take a look at the tall buildings around us. Can anyone guess the tallest building in Pittsburgh?"
+        ]
+    },
+    "003908": {
+        "Caption": [
+            "On your north, a view of a parking lot in a city with tall buildings.",
+            "On your east, a city street with palm trees on the side of a road.",
+            "On your south, an empty parking lot in front of a tall building.",
+            "On your west, a city street with palm trees and tall buildings.",
+            "You are driving in 60 W Robinson St, Orlando, FL 32801, USA"
+        ],
+        "Question": [
+            "Have you noticed the many parking lots around the city? Parking can be a challenge in downtown Orlando, but there are plenty of parking options available. Do you have any tips on finding the best parking spots?",
+            "Did you know that Orlando is known as \"The City Beautiful\" because of its picturesque landscapes and numerous parks? What do you think of the city's beauty so far?",
+            "Speaking of tall buildings, have you had a chance to visit the SunTrust Center, Orlando's tallest building, standing at 441 feet tall?",
+            "Have you had the opportunity to attend any events at the Amway Center, which is located nearby and hosts concerts, sports events, and other entertainment?",
+            "While we're driving, keep an eye out for the numerous public art installations and sculptures throughout the city. Have you seen any that caught your attention?"
+        ]
+    },
+    "000883": {
+        "Caption": [
+            "On your north, a view of the outside of a restaurant on a city street.",
+            "On your east, a person riding a bike down a city street.",
+            "On your south, a white truck is parked in front of a building.",
+            "On your west, a city street with cars driving down it and tall buildings.",
+            "You are driving in 141 6th St, Pittsburgh, PA 15222, USA"
+        ],
+        "Question": [
+            "Based on the people and vehicles you see around us, what impression do you get of Pittsburgh as a city? Do you find it busy, laid-back, or a mix of both?",
+            "Speaking of neighborhoods, does anyone know which neighborhood we're currently in? That's right, we're in the Downtown Pittsburgh area, also known as the Golden Triangle.",
+            "You may have noticed that Pittsburgh has a lot of public art installations and murals throughout the city. Keep an eye out for any interesting pieces as we drive along \u2013 can you spot any from where we are now?",
+            "Lastly, I'd like to ask what you're most looking forward to during your stay in Pittsburgh? There are plenty of attractions, events, and experiences to enjoy, so I'm curious to know what interests you the most.",
+            "Does anyone know what the significance of the white truck parked to our south is? It's actually a food truck that serves some amazing street food! Have you tried any food trucks during your visit?"
+        ]
+    },
+    "009685": {
+        "Caption": [
+            "On your north, a parking lot in front of a building with cars parked.",
+            "On your east, a view of a city street with tall buildings.",
+            "On your south, a view of a city street with cars and tall buildings.",
+            "On your west, a view of a city street with tall buildings and a white truck.",
+            "You are driving in 440 Washington St, New York, NY 10013, USA"
+        ],
+        "Question": [
+            "Can you imagine how many cars could be parked in this parking lot to the north? Do you think it's a private or public parking space?",
+            "How do you think these tall buildings to the west contribute to the overall skyline of New York City? Are there any structures that stand out to you?",
+            "As we continue our tour, which direction would you be most interested in exploring further \u2013 north, east, south, or west? What draws you to that particular direction?",
+            "Which of these streets do you think is the busiest in terms of pedestrian activity? What kind of shops or restaurants would you expect to find in such an area?",
+            "As we drive further south, do you notice any unique features or designs on the buildings? What materials do you think have been used in their construction?"
+        ]
+    },
+    "003095": {
+        "Caption": [
+            "On your north, a city street with a traffic light and buildings in the background.",
+            "On your east, a city street with a building on the side of a road.",
+            "On your south, a bridge over a city street with a traffic light.",
+            "On your west, a traffic light at an intersection in a city street.",
+            "You are driving in 300 N Garland Ave, Orlando, FL 32801, USA"
+        ],
+        "Question": [
+            "Orlando is known for its vibrant art scene. Do you see any murals or public art installations as we drive through this area?",
+            "As we approach the traffic light to our west, can you identify any local businesses or restaurants that you would like to explore later?",
+            "The city of Orlando has a diverse population with various cultural influences. Can you spot any cultural landmarks or establishments that showcase this diversity?",
+            "We are driving through downtown Orlando, which is home to many entertainment venues and events. Can anyone tell me about a popular event or festival that takes place here?",
+            "If you look out your window, you might see some of Orlando's famous green spaces and parks. Can anyone name a popular park in the area and share what makes it unique or special?"
+        ]
+    },
+    "009007": {
+        "Caption": [
+            "On your north, a building with scaffolding on the corner of a city street.",
+            "On your east, a large brick building on the corner of a city street.",
+            "On your south, a large brick building on the corner of a city street.",
+            "On your west, the corner of a city street with people crossing the street and a tall building.",
+            "You are driving in 41 University Pl, New York, NY 10003, USA"
+        ],
+        "Question": [
+            "To our west, the tall building seems to be a mix of commercial and residential spaces. What do you think are the advantages and disadvantages of living in a mixed-use building like this one?",
+            "Finally, what are you hoping to see or experience in this area during our tour today? Are there any specific attractions or landmarks that you're looking forward to visiting?",
+            "What types of businesses or establishments do you think are most common in this area? Can you spot any unique or interesting shops or restaurants as we drive by?",
+            "As we continue our drive, do any of you have a favorite mode of transportation for exploring New York City? What do you find most enjoyable or convenient about it?",
+            "Considering the location at 41 University Pl, New York, NY 10003, can anyone tell me what famous university is nearby?"
+        ]
+    },
+    "008824": {
+        "Caption": [
+            "On your north, a busy city street with cars and tall buildings.",
+            "On your east, a truck parked in front of a tall building.",
+            "On your south, an intersection in a city with tall buildings.",
+            "On your west, a truck is driving down a busy city street.",
+            "You are driving in 145 E 13th St, New York, NY 10003, USA"
+        ],
+        "Question": [
+            "Have you ever visited or lived in a city as bustling and densely populated as New York City, and if so, how does your experience here compare?",
+            "As we pass by this busy city street, can you spot any famous landmarks or architectural styles that you recognize?",
+            "Do you see any restaurants or shops in the area that you would like to visit after the tour is finished?",
+            "As we approach the intersection to our south, can you tell which streets are crossing and if they are famous for any specific reason?",
+            "Did you know that we are currently in the vibrant and historic neighborhood of Greenwich Village in New York City, known for its artistic and bohemian atmosphere?"
+        ]
+    },
+    "000820": {
+        "Caption": [
+            "On your north, a building with windows and a street light in front of it.",
+            "On your east, an empty street in the city with tall buildings.",
+            "On your south, a view of the corner of a city street with tall buildings.",
+            "On your west, an empty street in a city with tall buildings.",
+            "You are driving in 5th Avenue + Grant, 27th St, Pittsburgh, PA 15222, USA"
+        ],
+        "Question": [
+            "Have you noticed the street lights in Pittsburgh? They use energy-efficient LED bulbs to help reduce the city's carbon footprint.",
+            "Did you know that Pittsburgh is known as the \"City of Bridges\" because it has 446 bridges, which is more than any other city in the world with the exception of Venice, Italy?",
+            "Can you guess how old some of these buildings are? Many of them were built during Pittsburgh's industrial boom in the late 19th and early 20th centuries.",
+            "As we drive through these city streets, can you imagine how Pittsburgh transformed from a small frontier village to the thriving city it is today, thanks to its strategic location and rich natural resources?",
+            "Pittsburgh has a vibrant arts scene, with many galleries, theaters, and museums. Can you guess which famous American pop artist was born and raised here?"
+        ]
+    },
+    "005789": {
+        "Caption": [
+            "On your north, a view of a city street with tall buildings.",
+            "On your east, an intersection in front of a tall building on a city street.",
+            "On your south, a busy city street with people and cars and tall buildings.",
+            "On your west, a busy city street with buses and people walking down it.",
+            "You are driving in 55 7th Ave, New York, NY 10014, USA"
+        ],
+        "Question": [
+            "Are any of you fans of live theater? If so, have you attended any Broadway shows while in New York City? What shows would you recommend?",
+            "Do any of you use public transportation? If so, have you ever ridden a New York City bus or subway? What was your experience like?",
+            "Are you interested in architecture? If so, have you noticed the mix of architectural styles in this area, ranging from historic brownstones to modern high-rises?",
+            "Do you know that we are currently in the Greenwich Village neighborhood of Manhattan? Are you familiar with the history of this area?",
+            "As we pass through this intersection, can you notice any unique street art or murals on the buildings around us? New York City is known for its vibrant street art scene."
+        ]
+    },
+    "008410": {
+        "Caption": [
+            "On your north, a city bus driving down a street with buildings in the background.",
+            "On your east, a bus driving under a bridge over a city street.",
+            "On your south, a bus is parked in front of a building with scaffolding.",
+            "On your west, a bus driving down a city street with tall buildings.",
+            "You are driving in 7 Ed Koch Queensboro Bridge Path, New York, NY 10022, USA"
+        ],
+        "Question": [
+            "Can you spot any iconic landmarks or buildings from here? The Chrysler Building and the United Nations Headquarters are both visible from the Queensboro Bridge.",
+            "Have any of you ever been on the Ed Koch Queensboro Bridge before? It's also known as the 59th Street Bridge and connects Manhattan to Queens.",
+            "Have you ever taken a city bus in New York? It's a great way to get around and experience the city like a local.",
+            "Do you know the famous song \"The 59th Street Bridge Song (Feelin' Groovy)\" by Simon & Garfunkel? It's actually about this bridge!",
+            "How do you feel about driving in New York City? Some people find it intimidating, while others enjoy the challenge of navigating through the busy streets."
+        ]
+    },
+    "003566": {
+        "Caption": [
+            "On your north, a large white building with palm trees in front of it.",
+            "On your east, a city street with cars driving down it.",
+            "On your south, a building on the corner of a street in a city.",
+            "On your west, a car driving down a city street next to tall buildings.",
+            "You are driving in 745 FL-527, Orlando, FL 32803, USA"
+        ],
+        "Question": [
+            "Lastly, since we're in the heart of Orlando, are there any specific landmarks, attractions, or local hotspots that you would like to visit or learn more about during our tour?",
+            "What are your first impressions of the cityscape and skyline in this area of Orlando? Feel free to share any observations or interesting details you've noticed.",
+            "Based on what you've seen so far, how would you describe the atmosphere and vibe of downtown Orlando to someone who has never been here before?",
+            "Have any of you tried driving in Orlando before? If so, how does it compare to driving in your own city or other cities you've visited?",
+            "Notice how the palm trees in front of the building add to the Floridian atmosphere. Have any of you visited other cities in Florida with similar landscaping?"
+        ]
+    },
+    "008845": {
+        "Caption": [
+            "On your north, a tall building on the corner of a city street.",
+            "On your east, a rendering of a city street with tall buildings and cars.",
+            "On your south, a gas station sign on the side of a city street.",
+            "On your west, a city street with cars and buildings and a blue truck.",
+            "You are driving in E 13th St &, 3rd Ave, New York, NY 10003, USA"
+        ],
+        "Question": [
+            "You can see a blue truck on our west side. Trucks are essential for delivering goods and services in the city. Can you think of any other unique vehicles you might find on the streets of New York?",
+            "The streets of New York are always bustling with activity. What are some of your favorite outdoor activities or events that you've experienced in other cities?",
+            "As we drive along 3rd Avenue, you can notice the mix of residential and commercial buildings. What kind of neighborhood do you prefer living in \u2013 urban, suburban, or rural?",
+            "New York City is known for its diverse culinary scene. As we pass by various restaurants and cafes, do you have any favorite types of cuisine or specific dishes you'd like to try while you're here?",
+            "Have you ever thought about how cities like New York manage traffic and parking? What do you think are some effective solutions for reducing congestion in big cities?"
+        ]
+    }
+}
