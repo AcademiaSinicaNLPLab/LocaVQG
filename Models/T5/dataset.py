@@ -150,81 +150,12 @@ class Dataset():
                 self.description.append(description["input_ids"])
                 self.description_mask.append(description["attention_mask"])
                 self.question.append(question["input_ids"])
-
-        elif self.dataset == "GS":
-            img_storyline_story = {}
-            data = json.load(open(f"/home/VIST/projects/MVQG_group3/PRVIST_allen/story_plotting/generated_storylines_gs/pred_terms_HR_BiLSTM_plus_36_is_image_abs_position_only_5to7_repetitve_penalty_0.9_is_restrict_vocab_test_new_obj_test_combined-graph_bigdetection_image2terms_area_no_duplicates_30_nicholas_5_dec_1000req.json", "r"))
-            #data = json.load(open(f"/home/VIST/projects/MVQG_group3/PRVIST_allen/story_plotting/generated_storylines_gs/pred_terms_HR_BiLSTM_plus_36_is_image_abs_position_only_6to7_repetitve_penalty_0.9_is_restrict_vocab_test_new_obj_test_gs_multi_graph_bigdetection_thr_0.5_max_term_40.json", "r"))
-            #data = json.load(open(f"/home/VIST/projects/MVQG_group3/PRVIST_allen/story_plotting/generated_storylines_gs/pred_terms_HR_BiLSTM_plus_36_is_image_abs_position_only_5to7_repetitve_penalty_0.9_is_restrict_vocab_test_new_obj_test_bigdetection_image2terms_area_no_duplicates_30.json", "r"))
-            for story in data:
-                #story_combined = " ".join([s for s in story["storys"]])
-                golden_path = " ".join([" ".join(s["predicted_term_seq"]) for s in story])
-
-                description = f"generate story: {golden_path} </s>"
-                description = self.tokenizer([description], padding='max_length', truncation=True, max_length=self.max_desc_length, return_tensors='pt')
-                #question = self.tokenizer([story_combined], padding='max_length', truncation=True, max_length=self.max_question_length, return_tensors='pt')
-
-                #self.ids.append(imgs)
-                self.ids.append(story[0]["story_id"])
-                self.description.append(description["input_ids"])
-                self.description_mask.append(description["attention_mask"])
-                self.question.append(description["input_ids"])
-            
-        elif self.dataset == "GS_image2terms":
-
-            img_storyline_story = {}
-            story_id_2_image_id = json.load(open(f"/home/VIST/projects/MVQG_group3/PRVIST_allen/story_plotting/data/Google_Street/Golden/VIST_coref_nos_mapped_frame_noun_test_list.json", "r"))
-            data = json.load(open(f"/home/VIST/justin/street_view_test_terms_100.json", "r"))
-
-            for story in story_id_2_image_id:
-                #story_combined = " ".join([s for s in story["storys"]])
-                flicker_list = []
-                for x in story:
-                    flicker_list.append(x['photo_flickr_id'])
-                golden_path = " ".join([data[ids] for ids in flicker_list])
-
-                description = f"generate story: {golden_path} </s>"
-                description = self.tokenizer([description], padding='max_length', truncation=True, max_length=self.max_desc_length, return_tensors='pt')
-                #question = self.tokenizer([story_combined], padding='max_length', truncation=True, max_length=self.max_question_length, return_tensors='pt')
-
-                #self.ids.append(imgs)
-                self.ids.append("_".join(flicker_list))
-                self.description.append(description["input_ids"])
-                self.description_mask.append(description["attention_mask"])
-                self.question.append(description["input_ids"])
-
-        elif self.dataset == "GS_question":
-            data = json.load(open(f"./results/GS_bigdetection_image2terms_no_dup_30_nicholas_5_dec_1000req.json"))
-            #data = json.load(open(f"./results/GS_bigdetection_image2terms_no_dup_30.json"))
-            for key, story in data.items():
-                for i in range(5):
-                    description = f"generate question: {story[i]} </s>"
-                    description = self.tokenizer([description], padding='max_length', truncation=True, max_length=self.max_desc_length, return_tensors='pt')
-
-                    self.ids.append(f"{key}_{i}")
-                    self.description.append(description["input_ids"])
-                    self.description_mask.append(description["attention_mask"])
-                    self.question.append(description["input_ids"])
-
-        elif self.dataset == "StreetviewFull":
-            data = json.load(open(f"/home/VIST/projects/MVQG_GS/streetview_data/streetview_caption/Streetview_CaptionFull_{self.split}.json"))
-            #data = json.load(open(f"./results/GS_bigdetection_image2terms_no_dup_30.json"))
-            for key, story in data.items():
-                description = f"generate 5 question: {story['Caption']} </s>"
-                description = self.tokenizer([description], padding='max_length', truncation=True, max_length=self.max_desc_length, return_tensors='pt')
-                question = self.tokenizer([story["Question"]], padding='max_length', truncation=True, max_length=self.max_desc_length, return_tensors='pt')
-
-                self.ids.append(f"{key}")
-                self.description.append(description["input_ids"])
-                self.description_mask.append(description["attention_mask"])
-                self.question.append(question["input_ids"])
         
         elif self.dataset == "StreetviewFilter":
             if self.ablation == "0":
                 data = json.load(open(f"/home/VIST/projects/MVQG_GS/streetview_data/streetview_caption/StreetviewFilter_Caption_{self.split}_important.json"))
             else:
                 data = json.load(open(f"/home/VIST/projects/MVQG_GS/streetview_data/streetview_caption_ablation/StreetviewFilter_Caption{self.ablation}_{self.split}.json"))
-            #data = json.load(open(f"/home/VIST/projects/MVQG_GS/streetview_data/streetview_caption/StreetviewFilter_Caption_pick.json"))
             for key, story in data.items():
                 description = "generate question: "
                 for j in range(5):
@@ -239,22 +170,8 @@ class Dataset():
                     self.description_mask.append(description["attention_mask"])
                     self.question.append(question["input_ids"])
         
-        elif self.dataset == "StreetviewFilterFull":
-            data = json.load(open(f"/home/VIST/projects/MVQG_GS/streetview_data/streetview_caption/StreetviewFilter_CaptionFull_{self.split}.json"))
-            #data = json.load(open(f"./results/GS_bigdetection_image2terms_no_dup_30.json"))
-            for key, story in data.items():
-                description = f"generate 5 question: {story['Caption']} </s>"
-                description = self.tokenizer([description], padding='max_length', truncation=True, max_length=self.max_desc_length, return_tensors='pt')
-                question = self.tokenizer([story["Question"]], padding='max_length', truncation=True, max_length=self.max_desc_length, return_tensors='pt')
-
-                self.ids.append(f"{key}")
-                self.description.append(description["input_ids"])
-                self.description_mask.append(description["attention_mask"])
-                self.question.append(question["input_ids"])
-        
         elif self.dataset == "Streetview":
             data = json.load(open(f"/home/VIST/projects/MVQG_GS/streetview_data/streetview_caption/Streetview_Caption_{self.split}.json"))
-            #data = json.load(open(f"/home/VIST/projects/MVQG_GS/streetview_data/streetview_caption/StreetviewFilter_Caption_pick.json"))
             for key, story in data.items():
                 description = "generate question: "
                 for j in range(5):
