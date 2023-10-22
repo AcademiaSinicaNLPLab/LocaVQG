@@ -25,60 +25,53 @@ We also provide our engaging classifier and FDT5 codes. We did not provide the c
 ### Engaging Question Classifier
 To train the engaging question classifier, go to the EngagingClassifier Folder in the directory
 
-'''
+```
 cd Models/EngagingClassifier
-'''
+```
 
 Afterwards, enter this line of code to train the classifier:
-'''
+```
 python3 train.py
-'''
+```
 
 It will result in a model that will be saved as ".pkl" file in the same directory. You can try inferencing using this line of code:
-
-'''
+```
 python3 test.py
-'''
+```
 
 ### T5 Model
 To train the T5 model, go to the T5 folder in the Models directory
-
-'''
+```
 cd Models/T5
-'''
+```
 
 Enter this line of code to train the T5 model:
-
-'''
+```
 sh train_t5.sh
-'''
+```
 
 Afterwards you will have a checkpoint folder created in the directory, and you can find your model checkpoints there
 Use this line of code to try inference:
-
-'''
+```
 sh inference_t5.sh
-'''
+```
 
 ### FDT5 Model
 To train the FDT5 model, go to the T5 folder in the Models directory
-
-'''
+```
 cd Models/T5
-'''
+```
 
 Enter this line of code to train the T5 model:
-
-'''
+```
 sh train_fdt5.sh
-'''
+```
 
 Afterwards you will have a checkpoint folder created in the directory, and you can find your model checkpoints there
 Use this line of code to try inference:
-
-'''
+```
 sh inference_fdt5.sh
-'''
+```
 
 ## References
 [1] Amir Roshan Zamir and Mubarak Shah (2014), "Image Geo-localization Based on Multiple Nearest Neighbor Feature Matching using Generalized Graphs", IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
