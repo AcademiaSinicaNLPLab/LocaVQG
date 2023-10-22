@@ -1,0 +1,15 @@
+CUDA_VISIBLE_DEVICES=0 python3 train_distillation.py \
+    --dataset StreetviewFilter \
+    --train_batch_size 4 \
+    --eval_batch_size 64 \
+    --max_desc_length 256 \
+    --max_question_length 64 \
+    --num_epochs 20 \
+    --lr 1e-4 \
+    --save_dir checkpoints/FDT5 \
+    --teacher_dir ./checkpoints/T5Large/checkpoint-25000 \ #Change the checkpoint if it's not in your directory
+    --log_dir log \
+    --save_name FDT5 \
+    --log_freq 100 \
+    --save_freq 100 \
+    --load_dir NONE
