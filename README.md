@@ -1,8 +1,23 @@
-# LocaVQG
-Public repository for LocaVQG: Location-aware Visual Question Generation with Lightweight Models. The paper is published in EMNLP 2023.
-The dataset is collected by the method informed in the paper, we also provided sample prompt to query to GPT-4 using own API Key. 
+# Location-Aware Visual Question Generation with Lightweight Models
+
+This is an official repository of [**Location-aware Visual Question Generation with Lightweight Models**](https://arxiv.org/abs/2310.15129), which is published in [EMNLP 2023](https://2023.emnlp.org/). We provide the dataset and the implementation of our proposed model.
+
+This project aims to develop lightweight models that can generate engaging questions from data relevant to a particular geographical location. Specifically, we represent such location-aware information with surrounding images and a GPS coordinate. 
+
+<p align="center">
+    <img src="./asset/locavqg.png" width="450"/>
+</p>
+
+To tackle this task, we present a dataset generation pipeline that leverages GPT-4 to produce diverse and sophisticated questions.
+
+<p align="center">
+    <img src="./asset/dataset_generation_pipeline.png" width="900"/>
+</p>
+We propose a method, Filtered Distilled T5-Tiny (FDT5), which can reliably generate engaging questions from location-aware information. Our proposed method outperforms baselines regarding human evaluation (e.g., engagement, grounding, coherence) and automatic evaluation metrics (e.g., BERTScore, ROUGE-2). Moreover
 
 ## Dataset Structure
+The dataset was collected using the procedure described in the [paper](https://arxiv.org/abs/2310.15129).  The sample prompt to query to GPT-4 using own API Key is also provided.
+
 We split the dataset into train, val, and test set. Each set is formed as a json file with the structure shown below.
 
 ```
@@ -14,8 +29,9 @@ We split the dataset into train, val, and test set. Each set is formed as a json
 }
 ```
 
-Each Image ID corresponds to the IDS in [Google Street view Dataset](https://www.crcv.ucf.edu/data/GMCP_Geolocalization/)[1]. This data is collected in order to train smaller language model: T5, VL-T5 that are used in MVQG[2].
-For each image id, we provided the captions and questions corresponding to the iamge id. The first four entry to the caption is the captions of the street view images from four directions, the last entry of the caption is from the street address of the location. The questions are collected and filtered from GPT-4. we select top-5 questions from 10 questions that are generated.
+Each Image ID corresponds to the IDS in [Google Street view Dataset](https://www.crcv.ucf.edu/data/GMCP_Geolocalization/). This data is collected in order to train smaller language model: T5, VL-T5 that are used in [MVQG](https://arxiv.org/abs/2211.07441).
+
+For each image id, we provide the captions and questions corresponding to the iamge id. The first four entry to the caption is the captions of the street view images from four directions, the last entry of the caption is from the street address of the location. The questions are collected and filtered from GPT-4. we select top-5 questions from 10 questions that are generated.
 
 We also provided the raw questions in the directory
 
@@ -50,8 +66,7 @@ Enter this line of code to train the T5 model:
 sh train_t5.sh
 ```
 
-Afterwards you will have a checkpoint folder created in the directory, and you can find your model checkpoints there
-Use this line of code to try inference:
+Afterwards you will have a checkpoint folder created in the directory, and you can find your model checkpoints there. Use this line of code to try inference:
 ```
 sh inference_t5.sh
 ```
@@ -68,12 +83,11 @@ sh train_t5large.sh
 sh train_fdt5.sh
 ```
 
-Afterwards you will have a checkpoint folder created in the directory, and you can find your model checkpoints there
-Use this line of code to try inference:
+Afterwards you will have a checkpoint folder created in the directory, and you can find your model checkpoints there. Use this line of code to try inference:
 ```
 sh inference_fdt5.sh
 ```
 
 ## References
-[1] Amir Roshan Zamir and Mubarak Shah (2014), "Image Geo-localization Based on Multiple Nearest Neighbor Feature Matching using Generalized Graphs", IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
-[2] Yeh et al (2022), "Multi-VQG: Generating Engaging Questions for Multiple Images", EMNLP 2022.
+- Amir Roshan Zamir and Mubarak Shah "[Image Geo-localization Based on Multiple Nearest Neighbor Feature Matching using Generalized Graphs](https://vilab.epfl.ch/zamir/index_files/PAMI_Amir%20Zamir.pdf)" in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
+- Min-Hsuan Yeh, Vicent Chen, Ting-Hao 'Kenneth' Haung, and Lun-Wei Ku "[Multi-VQG: Generating Engaging Questions for Multiple Images](https://arxiv.org/abs/2211.07441)" in Empirical Methods in Natural Language Processing 2022
