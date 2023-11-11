@@ -88,6 +88,17 @@ Afterwards you will have a checkpoint folder created in the directory, and you c
 sh inference_fdt5.sh
 ```
 
+## Cite this Paper
+If you find this paper useful, you can cite:
+```
+@inproceedings{suwono2023location, 
+  title={Location-Aware Visual Question Generation with Lightweight Models}, 
+  author={Nicholas Collin Suwono and Justin Chen and Tun Min Hung and Ting-Hao Kenneth Huang and I-Bin Liao and Yung-Hui Li and Lun-Wei Ku and Shao-Hua Sun}, 
+  booktitle = {Empirical Methods in Natural Language Processing}, 
+  year={2023} 
+}
+```
+
 ## References
 - Amir Roshan Zamir and Mubarak Shah "[Image Geo-localization Based on Multiple Nearest Neighbor Feature Matching using Generalized Graphs](https://vilab.epfl.ch/zamir/index_files/PAMI_Amir%20Zamir.pdf)" in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
 - Min-Hsuan Yeh, Vicent Chen, Ting-Hao 'Kenneth' Haung, and Lun-Wei Ku "[Multi-VQG: Generating Engaging Questions for Multiple Images](https://arxiv.org/abs/2211.07441)" in Empirical Methods in Natural Language Processing 2022
